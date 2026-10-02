@@ -1,1 +1,9 @@
-# tokyo_revengers_santen_sensou_hen
+# Tokyo Revengers: Santen Sensou-hen (2026) Türkçe Çeviri
+
+## Çeviri Ekibi
+
+| Görev | İsim |
+|---|---|
+| **Çevirmen** | --- |
+| **Editör** | --- |
+| **Son Kontrol** | --- |
