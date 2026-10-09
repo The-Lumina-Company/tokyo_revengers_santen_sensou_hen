@@ -1,0 +1,453 @@
+[Script Info]
+Title: The-Lumina-Company - Tokyo Revengers: Santen Sensou-hen
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lumina,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: Arial,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.80,Arial,,0,0,0,,{\an4\fnLT Comical\fscx95\fscy95\bord2.2\shad2.2\blur0.6\pos(40,520)\c&HFF901E&}Çeviri: {\c&HFFFFFF&}ka4qnn, Chase, shxd.{\fscy34.5}\N{\fscy95\c&HFF901E&}Redaksiyon: {\c&HFFFFFF&}ka4qnn, shxd.{\fscy34.5}\N{\fscy95\c&HFF901E&}Encode: {\c&HFFFFFF&}shxd.{\fscy34.5}\N{\fscy95\c&HFF901E&}Upload: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscx76.5\fscy76.5\c&HAAAAAA&\b0}discord.gg/luminaceviri
+Dialogue: 9,0:00:01.29,0:00:03.63,Default,,0,0,0,,16 MART 2006
+Dialogue: 9,0:00:05.09,0:00:07.47,Default,,0,0,0,,Zaman sıçraması yapmam lazım.
+Dialogue: 9,0:00:07.55,0:00:08.63,Default,,0,0,0,,Ne?
+Dialogue: 9,0:00:09.43,0:00:10.80,Default,,0,0,0,,Anladım...
+Dialogue: 9,0:00:11.39,0:00:13.72,Default,,0,0,0,,Vay be, sonunda 12 yıl \Nsonrasına gideceksin diyorsun.
+Dialogue: 9,0:00:14.43,0:00:15.68,Default,,0,0,0,,Özleteceksin kendini be ortak.
+Dialogue: 9,0:00:16.31,0:00:19.48,Default,,0,0,0,,Yok lan, öyle değil. Sadece birkaç\N gün öncesine gitmek istiyorum!
+Dialogue: 9,0:00:19.56,0:00:20.73,Default,,0,0,0,,Ha?
+Dialogue: 9,0:00:20.81,0:00:22.81,Default,,0,0,0,,İki gün önce Sevgililer Günü'ydü ya!
+Dialogue: 9,0:00:22.90,0:00:26.69,Default,,0,0,0,,Hina'ya hediyesini verecektim\Nama tamamen aklımdan çıkmış!
+Dialogue: 9,0:00:26.78,0:00:29.66,Default,,0,0,0,,Ağzıma sıçacak, yandım ben!
+Dialogue: 9,0:00:29.74,0:00:33.87,Default,,0,0,0,,Yandım ben, Chifuyu! Hina'nın yüzüne nasıl bakarım? Bittim ben!
+Dialogue: 9,0:00:33.95,0:00:36.75,Default,,0,0,0,,Şu direksiyonu adam \Ngibi tutsana lan, dingil herif!
+Dialogue: 9,0:00:41.71,0:00:44.00,Default,,0,0,0,,Kusura bakma, Chifuyu...
+Dialogue: 9,0:00:44.09,0:00:45.09,Default,,0,0,0,,Takemitchy.
+Dialogue: 9,0:00:45.17,0:00:46.26,Default,,0,0,0,,Ha?
+Dialogue: 9,0:00:46.34,0:00:48.34,Default,,0,0,0,,Asıl günü kaçırmış olsak da...
+Dialogue: 9,0:00:48.42,0:00:50.47,Default,,0,0,0,,Bu boku toparlamanın bir yolu var bence.
+Dialogue: 9,0:00:50.55,0:00:51.55,Default,,0,0,0,,Nasıl yani?
+Dialogue: 9,0:00:51.64,0:00:53.05,Default,,0,0,0,,Kusursuz bir plan.
+Dialogue: 9,0:00:53.14,0:00:55.10,Default,,0,0,0,,Büyük ZS-KÇ Operasyonu!
+Dialogue: 9,0:00:55.60,0:00:59.89,Default,,0,0,0,,"ZS-KÇ" mi? O ne lan? \NŞifreli kelime falan mı?
+Dialogue: 9,0:00:59.98,0:01:01.48,Default,,0,0,0,,Hemen açıklayayım.
+Dialogue: 9,0:01:01.56,0:01:05.02,Default,,0,0,0,,Zaman Sıçraması ve Kalp Çarpıntısı!
+Dialogue: 9,0:01:05.02,0:01:06.94,Default,,0,0,0,,Çünkü kalbini küt küt attıracak!
+Dialogue: 9,0:01:08.32,0:01:09.40,Default,,0,0,0,,Hadi ya?
+Dialogue: 0,0:02:40.62,0:02:41.79,Default,,0,0,0,,{\an8} Bunlar ne lan böyle?
+Dialogue: 0,0:02:41.11,0:02:45.86,Default,,0,0,0,,{\an3\fnTimes New Roman\fs90\c&H0A0BA6&\3c&H11142A&\4c&H0E1020&\bord1.2\blur3.5\pos(1816.667,946)}#52 Zamanın Gerisinde Kalmak
+Dialogue: 0,0:02:42.37,0:02:44.87,Default,,0,0,0,,{\an8}-Aşkın gizli silahları.\N-Ne?
+Dialogue: 0,0:02:44.96,0:02:48.91,Default,,0,0,0,,{\an8}Bu kutuları kullanarak hatuna\Ndehşet bir sürpriz hazırlayacağız.
+Dialogue: 9,0:02:48.91,0:02:50.79,Default,,0,0,0,,Unuttuğun Sevgililer Günü\Nhediyesini öyle bir vereceksin ki...
+Dialogue: 9,0:02:51.20,0:02:53.72,Default,,0,0,0,,...kız mutluluktan havalara uçacak.
+Dialogue: 9,0:02:53.80,0:02:56.80,Default,,0,0,0,,Tam da istediğim şey bu ama...\NYine de kafam basmadı.
+Dialogue: 9,0:02:56.89,0:03:00.31,Default,,0,0,0,,Tek gördüğüm desenli \Nkutular, kurdeleler ve bir defter.
+Dialogue: 9,0:03:00.48,0:03:04.52,Default,,0,0,0,,Takemitchy, kızlar\N böyle şeylere asla dayanamaz.
+Dialogue: 9,0:03:04.60,0:03:08.31,Default,,0,0,0,,Sevimli küçük kurdeleler, desenli \Nkutular ve büyük sürprizler...
+Dialogue: 9,0:03:09.02,0:03:10.36,Default,,0,0,0,,Bir mangada okumuştum.
+Dialogue: 9,0:03:10.44,0:03:12.98,Default,,0,0,0,,Oha! Bu konularda usta \Nolduğunu hiç bilmiyordum!
+Dialogue: 9,0:03:13.07,0:03:13.94,Default,,0,0,0,,16 MART
+Dialogue: 9,0:03:14.03,0:03:17.28,Default,,0,0,0,,Önce kutulara iki gün öncesinden\N başlayan tarihleri yazıyoruz.
+Dialogue: 9,0:03:17.90,0:03:20.74,Default,,0,0,0,,Kutuları açarken eline içinde\N bulmaca olan bir not vereceksin.
+Dialogue: 9,0:03:21.54,0:03:25.21,Default,,0,0,0,,İlk ipucu: "Tırmanırsın bacaklarınla,\Ninersin götünün üzerinde."
+Dialogue: 9,0:03:25.29,0:03:26.87,Default,,0,0,0,,"Bilin bakalım ben neyim?"
+Dialogue: 9,0:03:27.83,0:03:28.83,Default,,0,0,0,,Kaydırak mı?
+Dialogue: 0,0:03:28.92,0:03:31.55,Default,,0,0,0,,{\an8}Aynen öyle! Ne o lan, Einstein falan mısın?
+Dialogue: 9,0:03:31.63,0:03:34.71,Default,,0,0,0,,Hina kaydırağın yanına gittiğinde...
+Dialogue: 9,0:03:34.80,0:03:35.84,Default,,0,0,0,,...ta-da!
+Dialogue: 9,0:03:35.92,0:03:38.59,Default,,0,0,0,,Üzerinde 16 Mart yazan\Ndiğer kutuyu görecek.
+Dialogue: 9,0:03:38.68,0:03:40.47,Default,,0,0,0,,İçinde de ikinci ipucu olacak.
+Dialogue: 9,0:03:40.55,0:03:41.56,Default,,0,0,0,,Bakalım neymiş...
+Dialogue: 9,0:03:41.64,0:03:45.85,Default,,0,0,0,,"Sallanır durursun saatlerce,\Nama yine de kalırsın aynı yerde."
+Dialogue: 9,0:03:48.44,0:03:49.44,Default,,0,0,0,,Salıncak değil mi bu?
+Dialogue: 9,0:03:49.52,0:03:51.65,Default,,0,0,0,,Bingo! Dâhisin oğlum sen!
+Dialogue: 9,0:03:51.73,0:03:54.82,Default,,0,0,0,,E, Hina salıncağa bakmaya \Ngittiğinde ne görecek peki?
+Dialogue: 9,0:03:55.44,0:03:58.41,Default,,0,0,0,,Üzerinde 15 Mart yazan bir sonraki kutuyu!
+Dialogue: 9,0:03:58.49,0:04:01.07,Default,,0,0,0,,Hasiktir! Dehşet bir şey bu, Chifuyu!
+Dialogue: 9,0:04:01.16,0:04:03.70,Default,,0,0,0,,Sanki harbiden zamanda\Nyolculuk yapıyormuşuz gibi olacak!
+Dialogue: 9,0:04:03.70,0:04:05.79,Default,,0,0,0,,Büyük finale hazır ol, Takemitchy.
+Dialogue: 0,0:04:08.42,0:04:11.20,Default,,0,0,0,,{\an8}"İçime düşsen canın acımaz...
+Dialogue: 0,0:04:11.20,0:04:14.30,Default,,0,0,0,,{\an8}...ama içimdekiyle birinin gözünü \Nkör edebilirsin. Neyim ben?"
+Dialogue: 9,0:04:19.09,0:04:20.18,Default,,0,0,0,,Hadi ama!
+Dialogue: 9,0:04:20.26,0:04:21.47,Default,,0,0,0,,En kolayı lan bu.
+Dialogue: 9,0:04:21.55,0:04:23.18,Default,,0,0,0,,Aklıma hiçbir şey gelmi--
+Dialogue: 9,0:04:26.22,0:04:29.44,Default,,0,0,0,,Hina'nın kalbini kazanmak istiyorsan\Nbiraz daha saksıyı çalıştırman lazım!
+Dialogue: 9,0:04:32.81,0:04:35.03,Default,,0,0,0,,-Kum havuzu!\N-Aynen öyle!
+Dialogue: 9,0:04:35.11,0:04:38.45,Default,,0,0,0,,Son kutuyu açacak ve Sevgililer Günü\Nhediyeni görünce şaşkına dönecek!
+Dialogue: 9,0:04:38.53,0:04:40.41,Default,,0,0,0,,İçindeki son ipucunda da şu yazacak:
+Dialogue: 9,0:04:40.49,0:04:42.99,Default,,0,0,0,,"Bunu sana verebileceğim\Nbaşka bir gün olamazdı!"
+Dialogue: 9,0:04:43.07,0:04:45.12,Default,,0,0,0,,Sokrates misin lan sen, Chifuyu?!
+Dialogue: 9,0:04:45.20,0:04:48.04,Default,,0,0,0,,Taşaklarına kurban olayım senin be!
+Dialogue: 9,0:04:48.12,0:04:51.00,Default,,0,0,0,,-Her şeyi baştan yazacak bu!\N-Aynen öyle ulan!
+Dialogue: 9,0:04:52.29,0:04:54.34,Default,,0,0,0,,Şimdi tek yapmam gereken hediyeyi koymak.
+Dialogue: 0,0:04:55.82,0:04:58.01,Default,,0,0,0,,{\an8}-Yüzük mü lan o?\N-Ta kendisi.
+Dialogue: 9,0:04:58.65,0:05:00.47,Default,,0,0,0,,Umarım Hina beğenir.
+Dialogue: 9,0:05:00.55,0:05:03.09,Default,,0,0,0,,Beğenmez olur mu hiç?\NSürprizi görünce bayılacak zaten.
+Dialogue: 9,0:05:03.18,0:05:05.31,Default,,0,0,0,,Plana başlamaya hazırız bence.
+Dialogue: 9,0:05:05.39,0:05:06.77,Default,,0,0,0,,Anlaşıldı!
+Dialogue: 9,0:05:13.04,0:05:14.52,Default,,0,0,0,,Şov zamanı, Takemitchy!
+Dialogue: 9,0:05:17.61,0:05:18.61,Default,,0,0,0,,Hina.
+Dialogue: 9,0:05:23.20,0:05:24.49,Default,,0,0,0,,Selam, Takemichi.
+Dialogue: 9,0:05:24.86,0:05:30.71,Default,,0,0,0,,{\i1}Ulan, önce bir özür dileyip\Nsonra mı mektubu versem acaba?
+Dialogue: 9,0:05:30.79,0:05:34.63,Default,,0,0,0,,{\i1}Sıçayım böyle işe! Soluğum tıkandı amk.
+Dialogue: 9,0:05:36.67,0:05:38.80,Default,,0,0,0,,-Özür dilerim.\N-Ne?
+Dialogue: 9,0:05:39.30,0:05:40.42,Default,,0,0,0,,Neden ki?
+Dialogue: 9,0:05:41.04,0:05:42.88,Default,,0,0,0,,Son zamanlarda sana \Nkötü davrandığım için.
+Dialogue: 9,0:05:44.18,0:05:47.72,Default,,0,0,0,,Aslında ikimiz arasında en\Nçok acı çeken sensin.
+Dialogue: 9,0:05:47.81,0:05:50.18,Default,,0,0,0,,Ne zırvalıyorlar lan \Norada, bir duyabilsem...
+Dialogue: 9,0:05:50.81,0:05:52.89,Default,,0,0,0,,Hina-chan niye mahcup duruyor ki?
+Dialogue: 9,0:05:53.48,0:05:57.32,Default,,0,0,0,,O gün yaşananlardan sonra \Nkendime gelemedim bir türlü.
+Dialogue: 9,0:05:59.66,0:06:02.57,Default,,0,0,0,,Kisaki'nin gözümün önünde\N öldüğünü gördüğümden beri...
+Dialogue: 9,0:06:04.40,0:06:06.03,Default,,0,0,0,,Görüntüsü aklımdan çıkmıyor.
+Dialogue: 9,0:06:06.12,0:06:08.58,Default,,0,0,0,,O anlar tekrar tekrar \Nzihnimde dönüp duruyor...
+Dialogue: 9,0:06:09.87,0:06:11.25,Default,,0,0,0,,Çok korkuyorum.
+Dialogue: 9,0:06:13.92,0:06:17.21,Default,,0,0,0,,Kisaki ve Emma'nın artık hayatta olmadığını aklımdan çıkaramıyorum.
+Dialogue: 9,0:06:17.29,0:06:21.17,Default,,0,0,0,,Ya ikisinin de ölümü\Nbenim yüzümden olduysa?
+Dialogue: 9,0:06:22.22,0:06:23.38,Default,,0,0,0,,Hina...
+Dialogue: 9,0:06:24.47,0:06:26.89,Default,,0,0,0,,{\i1}Neler yaşadığından haberim bile yoktu...
+Dialogue: 9,0:06:28.18,0:06:30.56,Default,,0,0,0,,Kıza ne anlatıyorsun sen, Takemitchy?
+Dialogue: 9,0:06:30.64,0:06:32.06,Default,,0,0,0,,Plana sadık kalsana!
+Dialogue: 9,0:06:32.14,0:06:34.69,Default,,0,0,0,,Büyük ZS-KÇ planı kesinlikle işe yarayacak!
+Dialogue: 9,0:06:34.77,0:06:36.02,Default,,0,0,0,,Kaydırağa bakmasını söyle.
+Dialogue: 9,0:06:39.07,0:06:40.23,Default,,0,0,0,,Hina.
+Dialogue: 9,0:06:43.49,0:06:45.86,Default,,0,0,0,,Sıçtığımın salağı! Kum havuzu finaldi lan!
+Dialogue: 9,0:06:46.87,0:06:48.91,Default,,0,0,0,,Hina, al bakalım.
+Dialogue: 9,0:06:51.16,0:06:52.29,Default,,0,0,0,,Yüzük mü?
+Dialogue: 9,0:06:52.37,0:06:53.58,Default,,0,0,0,,Evet.
+Dialogue: 9,0:06:53.66,0:06:56.63,Default,,0,0,0,,Sevgililer Günü içindi.\NGeç verdiğim için özür dilerim.
+Dialogue: 9,0:06:58.17,0:07:00.30,Default,,0,0,0,,Siktiğimin yerinde neler oluyor lan?
+Dialogue: 9,0:07:00.38,0:07:03.51,Default,,0,0,0,,Bak, özel yetenekleri olan biri\Nolmadığımı biliyorum...
+Dialogue: 9,0:07:04.67,0:07:06.59,Default,,0,0,0,,Büyük ihtimalle zengin de olamayacağım.
+Dialogue: 9,0:07:08.72,0:07:09.93,Default,,0,0,0,,Ama söz veriyorum...
+Dialogue: 9,0:07:10.01,0:07:12.97,Default,,0,0,0,,Sana gözüm gibi bakmak\Nve seni mutlu etmek...
+Dialogue: 9,0:07:13.06,0:07:14.89,Default,,0,0,0,,...her zaman önceliğim olacak.
+Dialogue: 9,0:07:18.52,0:07:19.73,Default,,0,0,0,,Hina...
+Dialogue: 9,0:07:20.52,0:07:22.19,Default,,0,0,0,,Benimle evlenir misin?
+Dialogue: 9,0:07:24.90,0:07:26.57,Default,,0,0,0,,Hayat ne zaman korkutucu bir hâl alsa,
+Dialogue: 9,0:07:26.66,0:07:28.99,Default,,0,0,0,,seni koruyup kollamak için\Nkapı gibi arkanda duracağım.
+Dialogue: 9,0:07:30.16,0:07:33.20,Default,,0,0,0,,Yanındayım işte, lütfen ağlama artık.
+Dialogue: 9,0:07:38.92,0:07:41.84,Default,,0,0,0,,On iki yıl sonra, ne olursa olsun evlenelim.
+Dialogue: 9,0:07:42.71,0:07:44.51,Default,,0,0,0,,Siz ikiniz evleniyor musunuz?
+Dialogue: 9,0:07:44.59,0:07:47.97,Default,,0,0,0,,Sessiz ol Naoto!\NBütün dünya duysun mu istiyorsun?
+Dialogue: 9,0:07:48.05,0:07:50.30,Default,,0,0,0,,Yetişkin olana kadar bekleyeceğiz tabii ki.
+Dialogue: 9,0:07:50.39,0:07:52.72,Default,,0,0,0,,Aniden gelen evlilik teklifi \Ndedikleri bu olsa gerek.
+Dialogue: 9,0:07:52.81,0:07:54.72,Default,,0,0,0,,Benim bile kalbim \Nküt küt atmaya başladı!
+Dialogue: 9,0:07:55.43,0:07:57.98,Default,,0,0,0,,Apar topar çağırmama rağmen \Ngeldiğin için teşekkürler, Naoto.
+Dialogue: 9,0:07:59.31,0:08:01.98,Default,,0,0,0,,İlk defa el sıkıştığımız park da burasıydı.
+Dialogue: 9,0:08:03.19,0:08:06.03,Default,,0,0,0,,Son el sıkışmamızın da burada\N olması en doğrusu gibi geliyor.
+Dialogue: 9,0:08:06.65,0:08:08.45,Default,,0,0,0,,Her şey için sağ ol, Naoto.
+Dialogue: 9,0:08:09.07,0:08:11.45,Default,,0,0,0,,Sen olmasaydın bunların \Nhiçbirini başaramazdım.
+Dialogue: 9,0:08:11.53,0:08:15.04,Default,,0,0,0,,Şu an buradaysam, senin ve gelecekteki\Nhâlinin bana duyduğu güven sayesinde.
+Dialogue: 9,0:08:15.12,0:08:17.83,Default,,0,0,0,,Yani bu durumda gelecekte...
+Dialogue: 9,0:08:17.91,0:08:19.87,Default,,0,0,0,,Ablam da ben de kurtulduk mu?
+Dialogue: 9,0:08:19.96,0:08:21.46,Default,,0,0,0,,Evet. Kesinlikle.
+Dialogue: 9,0:08:22.84,0:08:24.96,Default,,0,0,0,,Naoto, sık elimi.
+Dialogue: 9,0:08:30.68,0:08:32.60,Default,,0,0,0,,Chifuyu, Hina...
+Dialogue: 9,0:08:33.97,0:08:35.35,Default,,0,0,0,,Gelecekte görüşürüz!
+Dialogue: 9,0:08:42.77,0:08:44.19,Default,,0,0,0,,Geleceğe döndüm.
+Dialogue: 9,0:08:45.36,0:08:46.82,Default,,0,0,0,,{\i1}Bu demek oluyor ki...
+Dialogue: 9,0:08:46.90,0:08:48.40,Default,,0,0,0,,{\i1}Her şey yolunda gitti!
+Dialogue: 9,0:08:48.49,0:08:50.28,Default,,0,0,0,,{\i1}Naoto hayatta olmalı!
+Dialogue: 9,0:08:51.41,0:08:54.33,Default,,0,0,0,,{\i1}Bir dakika lan... Ben niye\N damatlık giyiyorum şu an?
+Dialogue: 9,0:08:54.33,0:08:56.79,Default,,0,0,0,,{\i1}Ayrıca tam olarak neredeyim ben?
+Dialogue: 9,0:08:58.41,0:09:00.37,Default,,0,0,0,,{\i1}Damatlık ve çan sesleri...
+Dialogue: 9,0:09:01.08,0:09:02.96,Default,,0,0,0,,{\i1}Ha? Yoksa...
+Dialogue: 9,0:09:03.04,0:09:04.67,Default,,0,0,0,,{\i1}"Benimle evlenir misin?"
+Dialogue: 9,0:09:04.75,0:09:06.76,Default,,0,0,0,,{\i1}Ciddi olamazsın!
+Dialogue: 9,0:09:11.05,0:09:12.43,Default,,0,0,0,,Geciktin!
+Dialogue: 9,0:09:13.01,0:09:14.89,Default,,0,0,0,,Düğüne geç kalacağız!
+Dialogue: 9,0:09:15.85,0:09:16.85,Default,,0,0,0,,Hina...
+Dialogue: 9,0:09:18.39,0:09:22.40,Default,,0,0,0,,Sonunda... Sonunda başardım.
+Dialogue: 9,0:09:24.86,0:09:27.61,Default,,0,0,0,,Hadi. Onu bekletmek istemezsin.
+Dialogue: 9,0:09:27.69,0:09:29.28,Default,,0,0,0,,Kimi?
+Dialogue: 9,0:09:29.36,0:09:31.65,Default,,0,0,0,,Bugün Hayashida'nın\Ndüğünü vardı ya, unuttun mu?
+Dialogue: 9,0:09:31.74,0:09:33.49,Default,,0,0,0,,Bir dakika, Hayashida da kim?
+Dialogue: 9,0:09:33.57,0:09:34.99,Default,,0,0,0,,Acele etmemiz gerek!
+Dialogue: 9,0:09:35.08,0:09:38.95,Default,,0,0,0,,Dur bir saniye, aklım durdu resmen!
+Dialogue: 9,0:09:43.00,0:09:44.71,Default,,0,0,0,,Geç kaldın, Takemitchy.
+Dialogue: 9,0:09:44.79,0:09:46.88,Default,,0,0,0,,-Ha?\N-Acele et ve otur.
+Dialogue: 9,0:09:46.96,0:09:51.22,Default,,0,0,0,,Şimdi de gecenin çifti olan gelinle\Ndamadı alkışlarınızla karşılayalım!
+Dialogue: 9,0:09:53.97,0:09:57.35,Default,,0,0,0,,Yani, Hayashida, Pah-chin mi?
+Dialogue: 9,0:09:57.43,0:10:01.81,Default,,0,0,0,,Geldiğiniz için teşekkürler.\NBugün çok özel ve güzel bir gün.
+Dialogue: 9,0:10:01.89,0:10:05.31,Default,,0,0,0,,Dışarıda çok güzel bi' hava var, ortalıkta\Ntek bir bulut bile yok ve, evet...
+Dialogue: 9,0:10:05.40,0:10:06.77,Default,,0,0,0,,Hava durumunu mu sunuyorsun?
+Dialogue: 9,0:10:06.86,0:10:10.11,Default,,0,0,0,,Kes sesini! Pah-chin'in iki gram aklı\Nbile olmadığını bilmiyor musun?
+Dialogue: 9,0:10:10.19,0:10:11.36,Default,,0,0,0,,Deniyor işte!
+Dialogue: 9,0:10:11.44,0:10:13.53,Default,,0,0,0,,Peh-yan'ın dili her zaman laf yapmıştır.
+Dialogue: 9,0:10:13.61,0:10:16.57,Default,,0,0,0,,-Kes be, Mitsuya!\N-Sakinleş, Peh-yan.
+Dialogue: 9,0:10:16.66,0:10:19.99,Default,,0,0,0,,Gülmeye devam ederseniz\Ngebertirim lan sizi!
+Dialogue: 9,0:10:20.08,0:10:21.54,Default,,0,0,0,,Bunu sen mi söylüyorsun?
+Dialogue: 9,0:10:21.62,0:10:24.29,Default,,0,0,0,,Hey hey, Pah-chin'in konuşması daha bitmedi.
+Dialogue: 9,0:10:28.34,0:10:30.34,Default,,0,0,0,,İkimiz hep...
+Dialogue: 9,0:10:30.42,0:10:32.92,Default,,0,0,0,,Ne oldu? Duygulandın mı?
+Dialogue: 9,0:10:33.01,0:10:35.39,Default,,0,0,0,,Sevinmen gerek, Takemichi.
+Dialogue: 9,0:10:36.05,0:10:38.76,Default,,0,0,0,,Hepiniz hayattasınız.
+Dialogue: 9,0:10:39.43,0:10:41.31,Default,,0,0,0,,Herkes çok mutlu.
+Dialogue: 9,0:10:41.98,0:10:43.69,Default,,0,0,0,,Beraber gülüyorlar.
+Dialogue: 9,0:10:45.19,0:10:46.27,Default,,0,0,0,,Bi' şey mi oldu?
+Dialogue: 9,0:10:47.40,0:10:48.86,Default,,0,0,0,,Sanki...
+Dialogue: 9,0:10:48.94,0:10:50.48,Default,,0,0,0,,Başardığımıza inanamıyorum.
+Dialogue: 9,0:10:52.03,0:10:53.19,Default,,0,0,0,,Bugünü asla unutmayacağım.
+Dialogue: 9,0:10:53.95,0:10:57.37,Default,,0,0,0,,Seni kurtaracağım geleceğe ulaşana kadar
+Dialogue: 9,0:10:57.45,0:10:58.95,Default,,0,0,0,,asla pes etmeyeceğim!
+Dialogue: 9,0:10:59.53,0:11:00.54,Default,,0,0,0,,Bir söz verdim.
+Dialogue: 9,0:11:02.37,0:11:03.66,Default,,0,0,0,,Ve şimdi burdasın.
+Dialogue: 9,0:11:05.04,0:11:06.29,Default,,0,0,0,,Tam önümde.
+Dialogue: 9,0:11:07.25,0:11:08.92,Default,,0,0,0,,Adam gibi dur!
+Dialogue: 9,0:11:09.00,0:11:12.09,Default,,0,0,0,,-Tek seferde kes.\N-Göreyim seni, Pah-chin.
+Dialogue: 9,0:11:12.17,0:11:13.80,Default,,0,0,0,,Bu iş senin için çantada keklik!
+Dialogue: 9,0:11:13.88,0:11:15.26,Default,,0,0,0,,-Hadi!\N-Kes şunu!
+Dialogue: 9,0:11:15.34,0:11:16.59,Default,,0,0,0,,-Çabuk ol!\N-Seni bekliyoruz.
+Dialogue: 9,0:11:16.68,0:11:18.85,Default,,0,0,0,,-Yap hadi.\N-Kes sesini!
+Dialogue: 9,0:11:18.93,0:11:21.31,Default,,0,0,0,,Biliyorum, Takemichi.
+Dialogue: 9,0:11:21.39,0:11:22.47,Default,,0,0,0,,Huh?
+Dialogue: 9,0:11:22.56,0:11:26.06,Default,,0,0,0,,Bugün buraya geri döneli \Ntam 12 yıl oldu, değil mi?
+Dialogue: 9,0:11:28.98,0:11:30.40,Default,,0,0,0,,İnanılmaz...
+Dialogue: 9,0:11:31.02,0:11:35.61,Default,,0,0,0,,O zaman senin olduğun yaşta olmamla\Nşimdiki yaşımın aynı olması çok tuhaf.
+Dialogue: 9,0:11:37.66,0:11:42.16,Default,,0,0,0,,Bugünü uzun zamandır bekliyordum.
+Dialogue: 9,0:11:43.49,0:11:45.58,Default,,0,0,0,,Hoş geldin, Takemichi.
+Dialogue: 9,0:11:47.62,0:11:49.58,Default,,0,0,0,,Rüya görmüyorum değil mi? Hina?
+Dialogue: 9,0:11:49.67,0:11:51.34,Default,,0,0,0,,Çimdikleyeyim mi?
+Dialogue: 9,0:11:53.76,0:11:55.76,Default,,0,0,0,,Ben de seni bekliyordum,\Naynı senin gibi.
+Dialogue: 9,0:11:56.38,0:11:58.13,Default,,0,0,0,,Biraz komik değil mi?
+Dialogue: 9,0:11:58.22,0:11:59.72,Default,,0,0,0,,Bize göre, tam 12 yıl oldu.
+Dialogue: 9,0:11:59.80,0:12:03.60,Default,,0,0,0,,Ama sana göre, Takemichi,\Ndaha az önce vedalaştık, di'mi?
+Dialogue: 9,0:12:04.14,0:12:06.06,Default,,0,0,0,,Hina'ya teklif ettiğin zaman.
+Dialogue: 9,0:12:06.68,0:12:08.52,Default,,0,0,0,,Acayip bir hikâye be.
+Dialogue: 9,0:12:08.60,0:12:11.27,Default,,0,0,0,,Yani şu an hayatta olmamızın tek sebebi...
+Dialogue: 9,0:12:11.36,0:12:13.36,Default,,0,0,0,,...senin yaptıkların, Takemitchy.
+Dialogue: 9,0:12:13.44,0:12:14.73,Default,,0,0,0,,Chifuyu...
+Dialogue: 9,0:12:15.28,0:12:16.69,Default,,0,0,0,,ve Draken...
+Dialogue: 9,0:12:16.78,0:12:19.28,Default,,0,0,0,,-Yani her şey için sağ ol.\N-Sana teşekkür etmek istiyoruz.
+Dialogue: 9,0:12:20.78,0:12:22.53,Default,,0,0,0,,Sen inanılmazsın, biliyorsun di'mi?
+Dialogue: 9,0:12:23.20,0:12:25.79,Default,,0,0,0,,Senin sayende sayısız hayat kurtuldu.
+Dialogue: 9,0:12:27.08,0:12:29.37,Default,,0,0,0,,Siz olmadan başaramazdım.
+Dialogue: 9,0:12:29.46,0:12:31.63,Default,,0,0,0,,Hep sizin yardımlarınız sayesinde.
+Dialogue: 9,0:12:32.42,0:12:33.71,Default,,0,0,0,,Hey hey hey!
+Dialogue: 9,0:12:33.80,0:12:36.71,Default,,0,0,0,,Neden bensiz duygusallaşıyorsunuz lan siz?
+Dialogue: 9,0:12:36.80,0:12:38.59,Default,,0,0,0,,Bugün benim günüm ulan!
+Dialogue: 9,0:12:38.68,0:12:41.18,Default,,0,0,0,,Gecenin yıldızı sen değilsin, aptal herif.
+Dialogue: 9,0:12:41.26,0:12:42.26,Default,,0,0,0,,Gecenin yıldızı gelin.
+Dialogue: 9,0:12:42.35,0:12:43.93,Default,,0,0,0,,Sen ikram gibi bir şeysin.
+Dialogue: 9,0:12:44.01,0:12:46.60,Default,,0,0,0,,Evet, öyle ama...
+Dialogue: 9,0:12:46.68,0:12:49.69,Default,,0,0,0,,Pah-chin aile şirketini \Ndevraldı ve parayı buldu.
+Dialogue: 9,0:12:49.77,0:12:52.06,Default,,0,0,0,,Gelin çocukluk arkadaşıymış.
+Dialogue: 9,0:12:52.98,0:12:56.36,Default,,0,0,0,,Peh-yan hâlâ Pah-chin'in yanında,\Nhem de her zamankinden daha da yakın.
+Dialogue: 9,0:12:56.44,0:12:58.90,Default,,0,0,0,,Mitsuya moda tasarımcılığına\N daha yeni başladı,
+Dialogue: 9,0:12:58.99,0:13:00.45,Default,,0,0,0,,ama şimdiden piyasayı salladı.
+Dialogue: 9,0:13:00.53,0:13:03.70,Default,,0,0,0,,Bir ödül bile kazandı.
+Dialogue: 9,0:13:03.78,0:13:04.78,Default,,0,0,0,,Öyle mi?
+Dialogue: 9,0:13:04.87,0:13:07.91,Default,,0,0,0,,Bir de Hakkai artık ünlü bir model.
+Dialogue: 9,0:13:08.00,0:13:10.50,Default,,0,0,0,,-İş için deniz aşırı yerlere gidiyor.\N-Vay be!
+Dialogue: 9,0:13:10.58,0:13:14.21,Default,,0,0,0,,Hey Taka, çabuk benim seviyeme \Ngel de birlikte çalışabilelim.
+Dialogue: 9,0:13:14.29,0:13:16.13,Default,,0,0,0,,Utanman yok mu senin?
+Dialogue: 9,0:13:16.21,0:13:18.97,Default,,0,0,0,,Yuzuha'ysa Hakkai'nin danışmanlığını yapıyor.
+Dialogue: 9,0:13:19.05,0:13:22.84,Default,,0,0,0,,Kawata kardeşler silahlarını bırakıp bıçaklara \Ngeçti, şimdi bir ramen dükkânı işletiyorlar.
+Dialogue: 9,0:13:22.93,0:13:25.81,Default,,0,0,0,,-Cidden mi?\N-Bir ara denemelisin.
+Dialogue: 9,0:13:25.89,0:13:28.22,Default,,0,0,0,,Ölümcül derecede iyiler.
+Dialogue: 9,0:13:28.31,0:13:30.39,Default,,0,0,0,,Ve tabii ki adımız,\N"İkiz şeytanlar."
+Dialogue: 9,0:13:30.48,0:13:32.15,Default,,0,0,0,,Vay!
+Dialogue: 9,0:13:32.23,0:13:34.81,Default,,0,0,0,,Ve Kazutora, Chifuyu'nun dükkânında çalışıyor.
+Dialogue: 9,0:13:34.90,0:13:36.77,Default,,0,0,0,,Neye bakıyon lan?
+Dialogue: 9,0:13:36.86,0:13:38.36,Default,,0,0,0,,Senin de mi dükkânın var?
+Dialogue: 9,0:13:38.44,0:13:40.49,Default,,0,0,0,,Evet ama sandığın tarzda değil.
+Dialogue: 9,0:13:40.57,0:13:42.66,Default,,0,0,0,,-Pet shop işletiyor.\N- Ne?
+Dialogue: 9,0:13:42.74,0:13:44.95,Default,,0,0,0,,Bu onun hayaliydi, değil mi Matsuno?
+Dialogue: 9,0:13:45.03,0:13:47.49,Default,,0,0,0,,Hâlâ küçük bir işletme,\Nama elbet büyüyeceğiz.
+Dialogue: 9,0:13:47.99,0:13:49.20,Default,,0,0,0,,Bu harika.
+Dialogue: 9,0:13:49.79,0:13:52.37,Default,,0,0,0,,-Tebrikler, Chifuyu.\N-Sağ ol.
+Dialogue: 9,0:13:52.46,0:13:55.84,Default,,0,0,0,,Bu arada, Takemitchy'nin motoru\Niçin karbüratörü sipariş ettin mi?
+Dialogue: 9,0:13:55.92,0:13:58.17,Default,,0,0,0,,Evet, yarın teslim edeceklermiş.
+Dialogue: 9,0:13:58.25,0:13:59.76,Default,,0,0,0,,Ne? Benim motorum mu?
+Dialogue: 9,0:13:59.84,0:14:02.63,Default,,0,0,0,,Motorunla 12 yıl boyunca kim ilgilendi sanıyorsun?
+Dialogue: 9,0:14:02.72,0:14:06.10,Default,,0,0,0,,Draken, Inupi'yle ortak oldu\Nve birlikte bir motosiklet dükkânı açtılar.
+Dialogue: 9,0:14:07.43,0:14:10.06,Default,,0,0,0,,Vay be, herkes bir yerlere gelmiş.
+Dialogue: 9,0:14:11.02,0:14:12.02,Default,,0,0,0,,Takemichi.
+Dialogue: 9,0:14:14.85,0:14:16.61,Default,,0,0,0,,Geri dönmen çok güzel.
+Dialogue: 9,0:14:19.23,0:14:21.40,Default,,0,0,0,,Senden bir an bile şüphe etmedim.
+Dialogue: 9,0:14:23.45,0:14:25.45,Default,,0,0,0,,Naoto!
+Dialogue: 9,0:14:25.53,0:14:29.20,Default,,0,0,0,,Hayattasın!\NŞükürler olsun, yaşıyorsun!
+Dialogue: 9,0:14:29.29,0:14:32.37,Default,,0,0,0,,Tabii ki yaşıyorum. Seni geri yollayanın ben olduğumu unuttun mu?
+Dialogue: 9,0:14:32.46,0:14:34.71,Default,,0,0,0,,Ben ölmüş olsaydım,\Nsen buraya geri dönemezdin.
+Dialogue: 9,0:14:34.79,0:14:36.71,Default,,0,0,0,,Biliyorum ama...
+Dialogue: 9,0:14:36.79,0:14:37.96,Default,,0,0,0,,Başardın.
+Dialogue: 9,0:14:38.63,0:14:40.38,Default,,0,0,0,,Görev tamamlandı.
+Dialogue: 9,0:14:42.55,0:14:44.51,Default,,0,0,0,,Şu an ablamın yaşadığı zamandayız.
+Dialogue: 9,0:14:47.10,0:14:48.10,Default,,0,0,0,,Doğru.
+Dialogue: 9,0:14:49.51,0:14:51.43,Default,,0,0,0,,Şu ana kadarki en iyi gelecek.
+Dialogue: 9,0:14:52.14,0:14:53.39,Default,,0,0,0,,Söz veriyorum.
+Dialogue: 9,0:14:54.31,0:14:56.73,Default,,0,0,0,,Yeniden görüşene kadar,
+Dialogue: 9,0:14:56.81,0:15:00.61,Default,,0,0,0,,Toman'daki herkesi ve\NHina'yı koruyacağım.
+Dialogue: 9,0:15:00.69,0:15:04.20,Default,,0,0,0,,Sözünü tuttun.
+Dialogue: 9,0:15:04.95,0:15:06.20,Default,,0,0,0,,Sağ ol Mikey.
+Dialogue: 9,0:15:08.83,0:15:09.95,Default,,0,0,0,,-Hey?\N-Hmm?
+Dialogue: 9,0:15:10.03,0:15:11.91,Default,,0,0,0,,Mikey nerede?
+Dialogue: 9,0:15:20.09,0:15:24.01,Default,,0,0,0,,Vay be! Mikey'nin deniz aşırı işlerde bulunması şaşırtıcı.
+Dialogue: 9,0:15:24.09,0:15:25.93,Default,,0,0,0,,Büyük işler başarıyor.
+Dialogue: 9,0:15:26.01,0:15:29.18,Default,,0,0,0,,Yiyecek sektöründe çalıştığını söylediler,\Nama tam olarak ne iş yapıyor, merak ediyorum.
+Dialogue: 9,0:15:29.26,0:15:30.76,Default,,0,0,0,,Belki taiyaki dükkânları zinciri falandır.
+Dialogue: 9,0:15:30.85,0:15:32.68,Default,,0,0,0,,Öyleyse kesin güzeldir!
+Dialogue: 9,0:15:32.77,0:15:35.89,Default,,0,0,0,,Gelemeyecek kadar meşgul olması,\Nişlerinin yolunda gittiğini gösteriyor.
+Dialogue: 9,0:15:35.98,0:15:37.94,Default,,0,0,0,,Yine de üzücü ama onu anlıyorum.
+Dialogue: 9,0:15:38.02,0:15:41.02,Default,,0,0,0,,Biliyorsun, bizim de\N işlerimiz epey yoğunlaştı.
+Dialogue: 9,0:15:41.11,0:15:43.65,Default,,0,0,0,,Biraz daha rahatladığımızda\Nkonuşacak çok şeyimiz var.
+Dialogue: 9,0:15:43.73,0:15:45.24,Default,,0,0,0,,Doğru.
+Dialogue: 9,0:15:45.32,0:15:47.24,Default,,0,0,0,,He, bizim işimiz mi?
+Dialogue: 9,0:15:47.32,0:15:51.74,Default,,0,0,0,,Yani, ikimiz de hayatımızda hiç bu kadar\Nyoğun olmamıştık herhâlde.
+Dialogue: 9,0:15:51.83,0:15:52.83,Default,,0,0,0,,Huh?
+Dialogue: 9,0:15:52.91,0:15:54.33,Default,,0,0,0,,Düğünümüz haziranda.
+Dialogue: 9,0:15:54.41,0:15:57.29,Default,,0,0,0,,Üç ay sonra evleneceğiz.
+Dialogue: 9,0:15:57.37,0:15:58.83,Default,,0,0,0,,Ne?
+Dialogue: 9,0:15:58.92,0:16:01.42,Default,,0,0,0,,On iki yıl bir ömür gibi geçti.
+Dialogue: 9,0:16:01.50,0:16:03.00,Default,,0,0,0,,Hina.
+Dialogue: 0,0:16:03.09,0:16:06.59,Default,,0,0,0,,{\an8}Bunca zamandır başkalarının yükünü\Nüstlenip durdun,
+Dialogue: 0,0:16:06.67,0:16:08.47,Default,,0,0,0,,{\an8}artık bencillik etmeyi hak ediyorsun.
+Dialogue: 9,0:16:10.30,0:16:12.18,Default,,0,0,0,,O yüzden, mutluluk dolu bir hayat sürerek
+Dialogue: 9,0:16:12.26,0:16:14.68,Default,,0,0,0,,geçip giden yılların acısını çıkaralım.
+Dialogue: 9,0:16:19.35,0:16:21.61,Default,,0,0,0,,Ortalığın ne kadar karışacağına\Nhazırsındır umarım.
+Dialogue: 9,0:16:21.69,0:16:25.19,Default,,0,0,0,,Mekânı tuttuk bile ve şimdiden\Nbütçemizin sınırına dayandık.
+Dialogue: 9,0:16:25.28,0:16:26.94,Default,,0,0,0,,Gelinliğim daha hazır değil,\Nondan bahsetmiyorum bile.
+Dialogue: 9,0:16:28.61,0:16:31.07,Default,,0,0,0,,{\i1}Bundan daha mutlu nasıl olabilirim bilmiyorum.
+Dialogue: 9,0:16:32.33,0:16:34.62,Default,,0,0,0,,Şanslı adamsın, Takemitchy.
+Dialogue: 9,0:16:35.37,0:16:38.08,Default,,0,0,0,,Hina benimle öyle bir pazarlık etti ki\Nlafı ağzıma tıkadı.
+Dialogue: 9,0:16:38.16,0:16:40.71,Default,,0,0,0,,Burası senin atölyen falan mı yani?
+Dialogue: 9,0:16:41.21,0:16:43.42,Default,,0,0,0,,Binanın sahibi aslında\Nbir tanıdığım.
+Dialogue: 9,0:16:43.50,0:16:45.63,Default,,0,0,0,,Ucuz olduğu için çatı katını kiraladım.
+Dialogue: 9,0:16:47.38,0:16:48.88,Default,,0,0,0,,Bu düşündüğüm şey mi yoksa?
+Dialogue: 9,0:16:48.97,0:16:51.34,Default,,0,0,0,,Hina'nın sipariş ettiği\Ngelinlik mi bu?
+Dialogue: 9,0:16:51.43,0:16:52.55,Default,,0,0,0,,Ha?
+Dialogue: 9,0:16:52.64,0:16:54.31,Default,,0,0,0,,Evet, öyle. Beğendin mi?
+Dialogue: 9,0:16:54.39,0:16:57.39,Default,,0,0,0,,Beğenmek mi? Bayıldım! \NHarika görünüyor.
+Dialogue: 9,0:16:57.47,0:17:00.56,Default,,0,0,0,,Taka, istediğin şeyleri aldık.
+Dialogue: 9,0:17:00.65,0:17:02.23,Default,,0,0,0,,Uzun sürdü biraz.
+Dialogue: 9,0:17:02.31,0:17:05.11,Default,,0,0,0,,Çıkarken bazı hayranların\Nhışmına uğradık da,
+Dialogue: 9,0:17:05.19,0:17:07.24,Default,,0,0,0,,bu eleman da her\Nzamanki gibi yine donakaldı.
+Dialogue: 9,0:17:08.78,0:17:10.15,Default,,0,0,0,,Çok güzel.
+Dialogue: 9,0:17:10.24,0:17:13.49,Default,,0,0,0,,-Bu ne için?\N-Takım elbisen için, Takemitchy.
+Dialogue: 9,0:17:13.57,0:17:16.24,Default,,0,0,0,,Kımıldama. Hassas bir iş bu.
+Dialogue: 9,0:17:16.33,0:17:17.70,Default,,0,0,0,,Tamamdır, anlaşıldı.
+Dialogue: 9,0:17:17.79,0:17:20.29,Default,,0,0,0,,Taka, prova işlerine \Ngelince hep çok ciddidir.
+Dialogue: 9,0:17:20.37,0:17:22.63,Default,,0,0,0,,Sihrin gerçekleştiği yer burası işte.
+Dialogue: 9,0:17:22.71,0:17:24.92,Default,,0,0,0,,-Şey... Haklısın.\N-Vay be.
+Dialogue: 9,0:17:25.00,0:17:27.17,Default,,0,0,0,,Böyle ciddileşince yüzü ne \Nkadar da yakışıklı oluyor.
+Dialogue: 9,0:17:27.26,0:17:29.22,Default,,0,0,0,,Kapa çeneni Hakkai, odaklanmaya çalışıyorum.
+Dialogue: 9,0:17:29.30,0:17:31.93,Default,,0,0,0,,Buralara kadar gelmenden\Ngurur duyuyorum Mitsuya.
+Dialogue: 9,0:17:32.01,0:17:34.93,Default,,0,0,0,,Daha yeni kendi işini kurdun ama\Nşimdiden bir sürü sipariş aldın.
+Dialogue: 9,0:17:35.01,0:17:37.39,Default,,0,0,0,,Öyle ama şimdilik yaptığım işler\Nayak işi sayılır.
+Dialogue: 9,0:17:37.47,0:17:38.98,Default,,0,0,0,,Kollar yukarı.
+Dialogue: 9,0:17:39.60,0:17:42.06,Default,,0,0,0,,Doğru ya. Bugün Fransa'ya dönüyorsun değil mi?
+Dialogue: 9,0:17:42.14,0:17:44.48,Default,,0,0,0,,Twin Devils'a uğra mutlaka.\NRamenleri gerçekten güzeldir.
+Dialogue: 9,0:17:44.56,0:17:47.32,Default,,0,0,0,,O psikopatların yaptığı rameni\Npek yemek istemiyorum açıkçası.
+Dialogue: 9,0:17:47.40,0:17:50.90,Default,,0,0,0,,Köpeklerini son bir kez daha görmek için\NChifuyu'nun mekânına uğramayı tercih ederim.
+Dialogue: 9,0:17:51.78,0:17:55.03,Default,,0,0,0,,Sanırım ben Draken'ın dükkânına uğrayıp\Nona bir motor gazlatacağım.
+Dialogue: 9,0:17:55.70,0:17:59.41,Default,,0,0,0,,O ses hep güzel anıları tazeliyor.\NDaha basit zamanlardı.
+Dialogue: 9,0:17:59.50,0:18:00.75,Default,,0,0,0,,Hmm.
+Dialogue: 9,0:18:00.83,0:18:02.08,Default,,0,0,0,,İnanılmaz gerçekten.
+Dialogue: 9,0:18:02.16,0:18:05.67,Default,,0,0,0,,Sana en son diktiğim şey\NToman üniformandı.
+Dialogue: 9,0:18:05.75,0:18:07.88,Default,,0,0,0,,Evet, galiba öyleydi.
+Dialogue: 9,0:18:07.96,0:18:10.59,Default,,0,0,0,,Bazı şeyler hiç değişmiyor, değil mi?
+Dialogue: 9,0:18:13.59,0:18:14.80,Default,,0,0,0,,{\i1}Herkesin hâlâ o zamankiyle
+Dialogue: 9,0:18:14.89,0:18:17.35,Default,,0,0,0,,{\i1}aynı olduğunu görmek güzel.
+Dialogue: 9,0:18:18.39,0:18:20.14,Default,,0,0,0,,İyi günler efendim!
+Dialogue: 9,0:18:21.73,0:18:24.85,Default,,0,0,0,,Hâlâ aynı film kiralama dükkânında çalışıyorum!
+Dialogue: 9,0:18:24.94,0:18:26.77,Default,,0,0,0,,Lütfen DVD'ler iade edilir edilmez
+Dialogue: 9,0:18:26.86,0:18:29.61,Default,,0,0,0,,yerlerine geri koyun,\NHanagaki Bey.
+Dialogue: 9,0:18:29.69,0:18:31.82,Default,,0,0,0,,Şey, tamamdır.
+Dialogue: 9,0:18:35.11,0:18:37.83,Default,,0,0,0,,Burası da hatırladığım kadar pismiş.
+Dialogue: 9,0:18:40.54,0:18:43.04,Default,,0,0,0,,{\i1}Ama artık mutluyum.
+Dialogue: 0,0:18:44.37,0:18:46.04,Default,,0,0,0,,{\an8}BİRKAÇ GÜN SONRA
+Dialogue: 0,0:18:46.13,0:18:49.50,Default,,0,0,0,,{\an8\i1}Şimdi de "Bonten" örgütüyle ilgili\Ngelişmeleri aktarıyoruz.
+Dialogue: 9,0:18:49.59,0:18:53.09,Default,,0,0,0,,{\i1}-Bu çatışma...{\i0}\N-Harbi mi? Şaka gibi.
+Dialogue: 9,0:18:53.17,0:18:55.59,Default,,0,0,0,,Toman gibi çeteler hâlâ var demek ki.
+Dialogue: 0,0:18:55.68,0:18:59.35,Default,,0,0,0,,{\an8\i1}...kilit üyelerin kimliğini açığa çıkarmada\Nyardımcı olacağını düşünüyoruz.
+Dialogue: 9,0:19:05.19,0:19:06.85,Default,,0,0,0,,{\i1}O dövme...
+Dialogue: 9,0:19:08.40,0:19:09.77,Default,,0,0,0,,TWIN DEVILS RAMEN\NBEYAZ RAMEN
+Dialogue: 9,0:19:09.86,0:19:13.90,Default,,0,0,0,,{\i1}O şekli daha önce nerede görmüştüm?\NBir türlü çıkaramıyorum.
+Dialogue: 9,0:19:13.99,0:19:16.36,Default,,0,0,0,,Hoop, sen beni dinliyo'n mu?
+Dialogue: 9,0:19:16.45,0:19:19.62,Default,,0,0,0,,Tabii ki. Gelinlik hakkında\Nkonuşuyordun, değil mi?
+Dialogue: 9,0:19:19.70,0:19:20.95,Default,,0,0,0,,Evet, muhteşem görüneceksin.
+Dialogue: 9,0:19:21.04,0:19:23.20,Default,,0,0,0,,Düğün provasından bahsediyordum!
+Dialogue: 9,0:19:23.29,0:19:24.75,Default,,0,0,0,,Şu dalıp gitme huyuna bi' son vermelisin!
+Dialogue: 9,0:19:25.71,0:19:26.79,Default,,0,0,0,,Siparişiniz hazır.
+Dialogue: 9,0:19:26.87,0:19:29.92,Default,,0,0,0,,Vay, harika görünüyor!\NHangisi hangisi şimdi?
+Dialogue: 9,0:19:30.00,0:19:34.13,Default,,0,0,0,,Beyaz tonkotsu'ya "Smiley",\Nsiyah tonkotsu'ya ise "Angry" diyoruz.
+Dialogue: 9,0:19:34.22,0:19:38.34,Default,,0,0,0,,"Angry" benim favorimdir.\NAdına rağmen hoş, hafif bir tadı vardır.
+Dialogue: 9,0:19:42.47,0:19:43.47,Default,,0,0,0,,Acıymış!
+Dialogue: 9,0:19:43.56,0:19:45.77,Default,,0,0,0,,"Smiley" yumuşak görünüyor \Nama bayağı yakıyor!
+Dialogue: 9,0:19:45.85,0:19:48.19,Default,,0,0,0,,Hmm? O fotoğraf...
+Dialogue: 9,0:19:48.77,0:19:50.61,Default,,0,0,0,,BİRİNCİ NESİL\NTOKYO MANJI
+Dialogue: 9,0:19:50.69,0:19:53.48,Default,,0,0,0,,Ha, o mu? Toman lağvedildiğinde\Nçekildiğimiz hatıra fotoğrafı.
+Dialogue: 9,0:19:53.57,0:19:56.20,Default,,0,0,0,,Gençliğimi arkamda bıraktığım gündü.
+Dialogue: 9,0:19:56.28,0:19:59.95,Default,,0,0,0,,12 yıl önce, 8 Mart.\NHiç unutmam.
+Dialogue: 9,0:20:00.03,0:20:02.62,Default,,0,0,0,,Yakında hep birlikte toplanıp\Nlafın belini kırmalıyız.
+Dialogue: 9,0:20:03.16,0:20:05.12,Default,,0,0,0,,Söylenenlere bakılırsa Mikey'nin \Nde keyfi yerindeymiş bayağı.
+Dialogue: 9,0:20:05.20,0:20:08.33,Default,,0,0,0,,-Ha? Öyle mi?\N-Valla biz bilmiyoruz.
+Dialogue: 9,0:20:08.42,0:20:12.04,Default,,0,0,0,,Ne? Japonya'ya geldiğinde\Nonunla buluşmuyor musunuz?
+Dialogue: 9,0:20:12.13,0:20:14.38,Default,,0,0,0,,Yurt dışında restoran işletiyor, değil mi?
+Dialogue: 9,0:20:14.46,0:20:16.51,Default,,0,0,0,,Öyle mi? İnan ilk defa duyuyorum.
+Dialogue: 9,0:20:16.59,0:20:19.34,Default,,0,0,0,,Nasıl yani? Ama Draken \Nile Chifuyu öyle söylemişti.
+Dialogue: 9,0:20:19.43,0:20:22.05,Default,,0,0,0,,Anlıyorum da... Onlar \NMikey'yi kanlı canlı görmüşler mi?
+Dialogue: 9,0:20:22.14,0:20:25.47,Default,,0,0,0,,-Ne?\N-On yılı aşkın süredir gören olmadı.
+Dialogue: 9,0:20:25.56,0:20:27.27,Default,,0,0,0,,O kadar oldu mu ya?
+Dialogue: 9,0:20:27.35,0:20:29.60,Default,,0,0,0,,Dürüst olmak gerekirse, kimsenin \NMikey'yi gördüğünü sanmıyorum.
+Dialogue: 9,0:20:30.69,0:20:33.44,Default,,0,0,0,,{\i1}Nasıl yani? Neler oluyor?
+Dialogue: 9,0:20:37.49,0:20:39.11,Default,,0,0,0,,Bir sorun mu var?
+Dialogue: 9,0:20:42.99,0:20:44.20,Default,,0,0,0,,{\i1}Şimdi dank etti.
+Dialogue: 9,0:20:45.29,0:20:46.62,Default,,0,0,0,,{\i1}O desen...
+Dialogue: 9,0:20:47.20,0:20:49.87,Default,,0,0,0,,{\i1}Izana Kurokawa'nın küpesindekiyle\Nbirebir aynı!
+Dialogue: 9,0:20:50.46,0:20:53.59,Default,,0,0,0,,-Eline sağlık!\N-Dur! Takemichi?
+Dialogue: 9,0:20:56.38,0:20:58.01,Default,,0,0,0,,Mikey yurt dışında.
+Dialogue: 9,0:20:58.09,0:21:00.55,Default,,0,0,0,,Gıda sektörüne girip\Nrestoran açtı.
+Dialogue: 9,0:21:00.63,0:21:02.68,Default,,0,0,0,,Orada işleri bayağı yolundaymış.
+Dialogue: 9,0:21:02.76,0:21:06.52,Default,,0,0,0,,Neden bilmiyorum ama\Niçimde çok kötü bir his var!
+Dialogue: 9,0:21:07.77,0:21:09.10,Default,,0,0,0,,Draken!
+Dialogue: 9,0:21:09.19,0:21:12.69,Default,,0,0,0,,Takemitchy?\NHayalet görmüş gibi halin ne öyle?
+Dialogue: 9,0:21:12.77,0:21:14.27,Default,,0,0,0,,Bana neden yalan söyledin, Draken?
+Dialogue: 9,0:21:15.32,0:21:17.32,Default,,0,0,0,,Mikey'nin yurt dışında olduğu meselesi...
+Dialogue: 9,0:21:17.40,0:21:18.82,Default,,0,0,0,,Yalandı, değil mi?
+Dialogue: 9,0:21:21.07,0:21:24.66,Default,,0,0,0,,Smiley ve diğerleri onu on yıldan fazla\Nbir süredir görmediklerini söylediler.
+Dialogue: 9,0:21:25.24,0:21:27.70,Default,,0,0,0,,Mitsuya da görmediğini söyledi.
+Dialogue: 9,0:21:28.41,0:21:31.17,Default,,0,0,0,,Bugün haberleri izlerken de
+Dialogue: 9,0:21:31.25,0:21:34.08,Default,,0,0,0,,tıpkı Izana Kurokawa'ya \Nbenzeyen birini gördüm.
+Dialogue: 9,0:21:35.13,0:21:37.92,Default,,0,0,0,,Ya Izana o son kavgadan sağ çıktıysa?
+Dialogue: 9,0:21:38.63,0:21:40.05,Default,,0,0,0,,Ya hâlâ nefes alıyorsa?
+Dialogue: 9,0:21:40.93,0:21:42.51,Default,,0,0,0,,Ya Mikey'nin peşine düştüyse?
+Dialogue: 0,0:21:42.59,0:21:43.59,Default,,0,0,0,,{\an8}MOTOSİKLET ÇETESİ
+Dialogue: 0,0:21:43.68,0:21:47.06,Default,,0,0,0,,{\an8\i1}Mikey, Emma'yı öldürdüğü için\Nöcünü almayı bırakıp onu affetse de
+Dialogue: 0,0:21:47.56,0:21:50.73,Default,,0,0,0,,{\an8\i1}Izana Kurokawa son nefesine\N kadar Mikey'ye kin besledi.
+Dialogue: 9,0:21:51.77,0:21:52.94,Default,,0,0,0,,Yoksa...
+Dialogue: 9,0:21:53.52,0:21:54.90,Default,,0,0,0,,Mikey'yi Izana öldürdü mü?
+Dialogue: 9,0:21:56.69,0:21:59.49,Default,,0,0,0,,{\i1}Ben de bunun en iyi \Ngelecek olduğunu sanıyordum...
+Dialogue: 9,0:22:00.74,0:22:02.53,Default,,0,0,0,,Şimdi, lütfen bana gerçeği söyle.
+Dialogue: 9,0:22:03.57,0:22:06.41,Default,,0,0,0,,Mikey'ye ne oldu gerçekten? Yaşıyor mu?
+Dialogue: 0,0:23:41.00,0:23:42.00,Default,,0,0,0,,{\an8}MASAL İNTİKAMCILARI - MİNİ
+Dialogue: 9,0:23:42.09,0:23:43.51,Default,,0,0,0,,-Masal İntikamcıları.\N-Masal İntikamcıları.
+Dialogue: 9,0:23:43.59,0:23:45.80,Default,,0,0,0,,Hey! Benim boynuzum neden hâlâ çıkmadı?
+Dialogue: 9,0:23:45.88,0:23:48.26,Default,,0,0,0,,Şey, görünüşe göre dibinden kırılmış.
+Dialogue: 9,0:23:48.34,0:23:50.35,Default,,0,0,0,,Yeniden çıkması biraz zaman alacaktır.
+Dialogue: 9,0:23:50.43,0:23:53.85,Default,,0,0,0,,Geberteceğim o şeftali piçini.
+Dialogue: 9,0:23:53.93,0:23:56.98,Default,,0,0,0,,Hey! Şimdilik boynuz niyetine\Nkullanabileceğimiz bir şey var mı kimsede?
+Dialogue: 9,0:23:58.52,0:23:59.52,Default,,0,0,0,,TAŞ
+Dialogue: 9,0:23:59.61,0:24:01.11,Default,,0,0,0,,Çok küçük bu. Başka bir şey bul!
+Dialogue: 9,0:24:01.19,0:24:02.19,Default,,0,0,0,,ÇİÇEK
+Dialogue: 9,0:24:02.27,0:24:04.36,Default,,0,0,0,,Çiçek takan {\i1}oni*{\i0} mi olur be? Başka bir şey bul!
+Dialogue: 0,0:24:02.27,0:24:04.36,Default,,0,0,0,,{\fscx50\fscy50\pos(500.667,44.667)}*: Japoncada oni, iblis, şeytan, dev veya canavar anlamına gelir.
+Dialogue: 9,0:24:04.44,0:24:05.95,Default,,0,0,0,,TAVŞAN KULAKLARI
+Dialogue: 9,0:24:06.03,0:24:07.36,Default,,0,0,0,,Kaşınan mı var aranızda?
+Dialogue: 9,0:24:07.45,0:24:08.45,Default,,0,0,0,,Aman, boş ver.
+Dialogue: 9,0:24:08.53,0:24:11.20,Default,,0,0,0,,Kendi boynuzumu kırıp\Npatrona veririm daha iyi.
+Dialogue: 9,0:24:12.28,0:24:14.79,Default,,0,0,0,,Öyle yaparsan senin de canın yanar.
+Dialogue: 9,0:24:14.87,0:24:17.54,Default,,0,0,0,,Ama seni öyle boynuzsuz da bırakamam.
+Dialogue: 9,0:24:17.62,0:24:19.63,Default,,0,0,0,,- İstemez seninkini.\N- Emin misin?
+Dialogue: 9,0:24:19.71,0:24:22.38,Default,,0,0,0,,Şu tavşan kulaklı salağın\Nboynuzunu koparırım daha iyi.
+Dialogue: 9,0:24:24.76,0:24:25.76,Default,,0,0,0,,Izana!
+Dialogue: 0,0:24:25.84,0:24:26.92,Default,,0,0,0,,{\an8\fnArial\b1\3c&H3361E6&\bord9\shad0\pos(1610,824)}DEVAM EDECEK
