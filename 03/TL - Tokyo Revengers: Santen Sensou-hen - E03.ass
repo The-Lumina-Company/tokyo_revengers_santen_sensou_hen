@@ -17,379 +17,294 @@ Style: Default,Lumina,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:15.27,Arial,,0,0,0,,{\an4\fnLT Comical\fscx95\fscy95\bord2.2\shad2.2\blur0.6\3c&H000000&\4c&H000000&\pos(40,520)}{\c&HFF901E&}Çeviri: {\c&HFFFFFF&}ka4qnn, shxd. {\fscy34.5}\N{\fscy95\c&HFF901E&}Redaksiyon: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Encode: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Upload: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscx76.5\fscy76.5\c&HAAAAAA&\b0}discord.gg/luminaceviri{\b1}
-Dialogue: 0,0:00:01.54,0:00:03.21,Default,,0,0,0,,Şimdi bana doğruyu söyle lütfen.
-Dialogue: 0,0:00:03.21,0:00:06.34,Default,,0,0,0,,Mikey’ye gerçekte ne oldu? \NHayatta, değil mi?
-Dialogue: 0,0:00:14.18,0:00:15.27,Default,,0,0,0,,Hiçbir fikrim yok.
-Dialogue: 0,0:00:16.06,0:00:17.98,Default,,0,0,0,,Sen gittikten sonra onu\N bir kez bile görmedim.
-Dialogue: 0,0:00:19.10,0:00:21.10,Default,,0,0,0,,Yani öylece çekip gitti mi?
-Dialogue: 0,0:00:21.10,0:00:23.44,Default,,0,0,0,,On senedir nerede \Nolduğunu kimse bilmiyor mu?
-Dialogue: 0,0:00:23.44,0:00:25.00,Default,,0,0,0,,Yalan söylediğim için üzgünüm.
-Dialogue: 0,0:00:25.54,0:00:28.11,Default,,0,0,0,,Huzurunu kaçırmak istemedim.
-Dialogue: 0,0:00:28.70,0:00:31.53,Default,,0,0,0,,Chifuyu'ya da fazla yüklenme, olur mu?
-Dialogue: 0,0:00:31.53,0:00:33.95,Default,,0,0,0,,Yalanıma ortak olsun diye \Naz yalvarmadım çocuğa.
-Dialogue: 0,0:00:35.20,0:00:36.79,Default,,0,0,0,,Takemitchy.
-Dialogue: 0,0:00:36.79,0:00:37.80,Default,,0,0,0,,Ne oldu?
-Dialogue: 0,0:00:38.29,0:00:40.37,Default,,0,0,0,,Sakın onun izini sürmeye kalkma.
-Dialogue: 0,0:00:40.37,0:00:41.46,Default,,0,0,0,,Ha?
-Dialogue: 0,0:00:43.04,0:00:44.46,Default,,0,0,0,,Görsen de hoşuna gitmez.
-Dialogue: 0,0:00:44.46,0:00:47.76,Default,,0,0,0,,Ortadan kaybolmadan önce \Nonu en son gördüğümde...
-Dialogue: 0,0:00:51.01,0:00:54.35,Default,,0,0,0,,Nasıl söylesem bilmiyorum ama eski Mikey'den eser kalmamıştı.
-Dialogue: 0,0:01:13.99,0:01:15.95,Default,,0,0,0,,Seni de yordum, kusura bakma.
-Dialogue: 0,0:01:15.95,0:01:18.83,Default,,0,0,0,,Lafı bile olmaz.
-Dialogue: 0,0:01:18.83,0:01:19.87,Default,,0,0,0,,Bunu sen de biliyorsun.
-Dialogue: 0,0:01:23.13,0:01:24.92,Default,,0,0,0,,Bonten'in dosyası burada.
-Dialogue: 0,0:01:24.92,0:01:26.88,Default,,0,0,0,,İzini sürerken de haklıymışsın.
-Dialogue: 0,0:01:27.67,0:01:30.63,Default,,0,0,0,,Yapılanma olarak neredeyse\NToman'ın birebir aynısı.
-Dialogue: 0,0:01:32.13,0:01:35.18,Default,,0,0,0,,Bonten, şu an Japonya'daki\Nen büyük suç örgütü.
-Dialogue: 0,0:01:35.80,0:01:38.93,Default,,0,0,0,,Yasa dışı kumar, dolandırıcılık, fuhuş, cinayet...
-Dialogue: 0,0:01:38.93,0:01:40.56,Default,,0,0,0,,Ki bunlar sadece bizim bildiklerimiz.
-Dialogue: 0,0:01:41.27,0:01:44.56,Default,,0,0,0,,Yedikleri halt çok daha fazla ama\Ntek bir somut kanıt bırakmıyor piçler.
-Dialogue: 0,0:01:44.56,0:01:47.31,Default,,0,0,0,,Polisin bile ne bok \Ndöndüğünden haberi yok.
-Dialogue: 0,0:01:48.57,0:01:53.36,Default,,0,0,0,,Hem acımasızlıkta hem de \Nbüyüklükte Toman'ı ikiye katlarlar.
-Dialogue: 0,0:01:55.03,0:01:58.74,Default,,0,0,0,,Başlarında ise beyaz saçlı \Ngenç bir adam oturuyor.
-Dialogue: 0,0:02:00.29,0:02:02.54,Default,,0,0,0,,Beyaz saçlı mı?\N Izana mı lan yoksa?
-Dialogue: 0,0:02:02.54,0:02:06.71,Default,,0,0,0,,O değil. Izana Kurokawa denilen piç \Ngebereli on seneden fazla oluyor.
-Dialogue: 0,0:02:07.63,0:02:08.96,Default,,0,0,0,,Başlarındaki kişi...
-Dialogue: 0,0:02:10.26,0:02:11.76,Default,,0,0,0,,Yenilmez Mikey.
-Dialogue: 0,0:02:13.88,0:02:16.09,Default,,0,0,0,,Tokyo Manji'yi satıp direkt\N Bonten'in başına geçti.
-Dialogue: 0,0:02:17.26,0:02:19.06,Default,,0,0,0,,Manjiro Sano'nun ta kendisi.
-Dialogue: 0,0:03:59.03,0:04:03.65,Default,,0,0,0,,{\an3\fnTimes New Roman\fs90\b0\c&H0A0BA6&\3c&H11142A&\4c&H0E1020&\bord1.2\blur3.5\shad1.5\pos(1816.667,946)}#53 Gülümseme
-Dialogue: 0,0:04:03.83,0:04:06.91,Default,,0,0,0,,Gösterin şu hain piçlere\NBonten'in gazabını!
-Dialogue: 0,0:04:18.26,0:04:21.09,Default,,0,0,0,,Kulaklarınızı iyi açın...\N Mikey'nin diyecekleri var.
-Dialogue: 0,0:04:28.60,0:04:29.69,Default,,0,0,0,,Gebertin.
-Dialogue: 0,0:04:49.29,0:04:54.08,Default,,0,0,0,,BONTEN 2 NUMARA\NHARUCHIYO SANZU
-Dialogue: 0,0:04:49.29,0:04:52.21,Default,,0,0,0,,{\an8}Bonten'e ayak uyduramıyorsanız...
-Dialogue: 0,0:04:52.21,0:04:54.08,Default,,0,0,0,,{\an8}...hurdalıkta gebermeyi \Nhak ediyorsunuz demektir!
-Dialogue: 0,0:04:54.96,0:04:57.26,Default,,0,0,0,,BONTEN 3 NUMARA\NKAKUCHO
-Dialogue: 0,0:04:55.59,0:04:57.26,Default,,0,0,0,,{\an8}İz kalmadan şurayı temizleyin.
-Dialogue: 0,0:04:57.92,0:05:00.80,Default,,0,0,0,,BONTEN YÖNETİCİSİ\NKANJI MOCHIZUKI
-Dialogue: 0,0:04:58.54,0:05:00.84,Default,,0,0,0,,{\an8}Cesetleri dondurup kıyalım,\Nbalıklara yem ederiz.\N
-Dialogue: 0,0:05:00.84,0:05:02.84,Default,,0,0,0,,BONTEN YÖNETİCİSİ\NRAN HAITANI
-Dialogue: 0,0:05:02.84,0:05:04.85,Default,,0,0,0,,BONTEN YÖNETİCİSİ\NRINDO HAITANI
-Dialogue: 0,0:05:04.85,0:05:09.10,Default,,0,0,0,,BONTEN YÖNETİCİSİ\NHAJIME KOKONOI
-Dialogue: 0,0:05:05.76,0:05:07.52,Default,,0,0,0,,{\an8}Bu size ders olsun beyler.
-Dialogue: 0,0:05:07.52,0:05:08.77,Default,,0,0,0,,{\an8}Bonten'e asla ihanet etmeyin.
-Dialogue: 0,0:05:09.10,0:05:12.56,Default,,0,0,0,,BONTEN DANIŞMANI\NTAKEOMI AKASHI
-Dialogue: 0,0:05:10.44,0:05:11.98,Default,,0,0,0,,{\an8}Ya hep birlikte ayakta kalırız...
-Dialogue: 0,0:05:13.48,0:05:15.27,Default,,0,0,0,,...ya da tek başınıza geberip gidersiniz.
-Dialogue: 0,0:05:15.27,0:05:19.19,Default,,0,0,0,,BONTEN LİDERİ\NMANJIRO SANO
-Dialogue: 0,0:05:23.12,0:05:25.45,Default,,0,0,0,,Hadi lan oradan. O piçin \NMikey olduğuna emin misin?
-Dialogue: 0,0:05:25.45,0:05:28.04,Default,,0,0,0,,Evet. Hiç şüphen olmasın.
-Dialogue: 0,0:05:29.83,0:05:31.50,Default,,0,0,0,,Mikey mi?
-Dialogue: 0,0:05:31.50,0:05:35.84,Default,,0,0,0,,Sizin sayenizde artık zirvede olduğumuz bir döneme giriyoruz.
-Dialogue: 0,0:05:37.00,0:05:40.22,Default,,0,0,0,,İşte bu yüzden her şeyi \Nbitirmenin tam zamanı.
-Dialogue: 0,0:05:40.76,0:05:45.22,Default,,0,0,0,,Bugünden itibaren \NTokyo Manji Çetesi dağılmıştır!
-Dialogue: 0,0:05:45.76,0:05:48.77,Default,,0,0,0,,Eğer geleceği değiştirmek \Nistiyorsak, bu en iyi yolu değil mi?
-Dialogue: 0,0:05:49.52,0:05:52.69,Default,,0,0,0,,Toman'ı dağıtan Mikey...
-Dialogue: 0,0:05:52.69,0:05:57.06,Default,,0,0,0,,...daha iyisini yapabilelim diye ailesini arkasında bırakan Mikey ile aynı kişi mi?
-Dialogue: 0,0:05:58.40,0:05:59.98,Default,,0,0,0,,İçin rahat olsun.
-Dialogue: 0,0:05:59.99,0:06:02.28,Default,,0,0,0,,Tekrar karşılaşacağımız güne kadar,
-Dialogue: 0,0:06:02.28,0:06:05.95,Default,,0,0,0,,Toman'daki herkesi ve Hina'yı\N koruyacağıma söz veriyorum.
-Dialogue: 0,0:06:06.74,0:06:08.03,Default,,0,0,0,,Şaka yapıyorsun.
-Dialogue: 0,0:06:08.58,0:06:11.12,Default,,0,0,0,,Mikey öyle bir bataklığa \Ngirmez. Yapmaz öyle şey.
-Dialogue: 0,0:06:12.00,0:06:14.33,Default,,0,0,0,,Benim bilmediğim bir \Nşey mi biliyorsun yoksa?
-Dialogue: 0,0:06:17.13,0:06:18.21,Default,,0,0,0,,Öyleyse öt hemen.
-Dialogue: 0,0:06:18.88,0:06:22.13,Default,,0,0,0,,Yok, bildiğimden değil ama imkânı yok işte...
-Dialogue: 0,0:06:22.63,0:06:24.97,Default,,0,0,0,,Buna inanmak istemeni anlıyorum.
-Dialogue: 0,0:06:24.97,0:06:26.30,Default,,0,0,0,,Gidip onunla konuşacağım.
-Dialogue: 0,0:06:27.51,0:06:31.27,Default,,0,0,0,,Takemichi, bunun ne kadar tehlikeli bir iş olduğunun farkına var artık!
-Dialogue: 0,0:06:31.73,0:06:36.06,Default,,0,0,0,,Bak dinle, aradan geçen on yılın insanı ne kadar değiştirebileceğini hafife alıyorsun.
-Dialogue: 0,0:06:36.06,0:06:39.48,Default,,0,0,0,,Senin bildiğin Manjiro Sano...\NÖyle biri yok artık.
-Dialogue: 0,0:06:40.57,0:06:44.28,Default,,0,0,0,,Bilmiyorum.\NArtık eskisi gibi değildi.
-Dialogue: 0,0:06:48.66,0:06:49.83,Default,,0,0,0,,Uzat elini.
-Dialogue: 0,0:06:50.74,0:06:52.62,Default,,0,0,0,,-Geri dönmem lazım.\N-Ne dedin sen?
-Dialogue: 0,0:06:52.62,0:06:54.21,Default,,0,0,0,,Ciddi olamazsın.
-Dialogue: 0,0:06:54.79,0:06:59.25,Default,,0,0,0,,Ciddiyim. Mikey değişmeden öncesine gidip sebebini öğreneceğim.
-Dialogue: 0,0:06:59.25,0:07:01.46,Default,,0,0,0,,Öyle bir şey olmayacak!
-Dialogue: 0,0:07:01.46,0:07:03.01,Default,,0,0,0,,Ablam yaşıyor ulan!
-Dialogue: 0,0:07:03.01,0:07:05.84,Default,,0,0,0,,Zaten tek amacımız da buydu, \Nbaşardık işte, bitti gitti!
-Dialogue: 0,0:07:06.43,0:07:09.89,Default,,0,0,0,,Zaten o Manjiro Sano piçiyle doğru dürüst samimiyetiniz bile yoktu.
-Dialogue: 0,0:07:09.89,0:07:11.85,Default,,0,0,0,,Şimdi o herif için her şeyi \Nboka mı saracaksın?
-Dialogue: 0,0:07:12.52,0:07:15.23,Default,,0,0,0,,Hepimiz kendi yolumuzu \Nçizdik. Sen de öyle yap.
-Dialogue: 0,0:07:15.23,0:07:17.19,Default,,0,0,0,,Ablamla mutlu bir hayat yaşa!
-Dialogue: 0,0:07:17.69,0:07:19.15,Default,,0,0,0,,Naoto...
-Dialogue: 0,0:07:22.28,0:07:24.65,Default,,0,0,0,,Sana hayranlık duyuyorum, Takemitchy.
-Dialogue: 0,0:07:28.24,0:07:29.82,Default,,0,0,0,,O olmasaydı...
-Dialogue: 0,0:07:30.62,0:07:35.21,Default,,0,0,0,,Onunla hiç tanışmamış olsaydım,\Nbugünkü ben olamazdım.
-Dialogue: 0,0:07:42.75,0:07:43.92,Default,,0,0,0,,Naoto...
-Dialogue: 0,0:07:44.59,0:07:46.68,Default,,0,0,0,,Hemen geri geleceğim. Yemin ederim.
-Dialogue: 0,0:07:56.14,0:07:57.60,Default,,0,0,0,,Peki, tamam.
-Dialogue: 0,0:07:57.60,0:07:59.73,Default,,0,0,0,,Ama çabuk hallet, anlaşıldı mı?
-Dialogue: 0,0:07:59.73,0:08:00.90,Default,,0,0,0,,Hiç şakam yok.
-Dialogue: 0,0:08:01.52,0:08:03.53,Default,,0,0,0,,Yüzünü kara çıkarmayacağım!
-Dialogue: 0,0:08:04.23,0:08:06.86,Default,,0,0,0,,Aman, seninle de hiç başa çıkılmıyor.
-Dialogue: 0,0:08:17.71,0:08:21.79,Default,,0,0,0,,Nasıl yani... El sıkıştık ama\Nzamanda sıçrama olmadı mı?
-Dialogue: 0,0:08:21.79,0:08:22.79,Default,,0,0,0,,Neler oluyor?
-Dialogue: 0,0:08:23.50,0:08:24.96,Default,,0,0,0,,Anlıyorum...
-Dialogue: 0,0:08:24.96,0:08:26.71,Default,,0,0,0,,Ne oldu? Bir şey mi var?
-Dialogue: 0,0:08:26.72,0:08:28.05,Default,,0,0,0,,Niye böyle bir şey olsun ki?
-Dialogue: 0,0:08:28.63,0:08:30.05,Default,,0,0,0,,Emin değilim ama...
-Dialogue: 0,0:08:30.05,0:08:32.47,Default,,0,0,0,,...benim yüzümden olması mümkün.
-Dialogue: 0,0:08:33.10,0:08:35.29,Default,,0,0,0,,Ben şu anki durumdan\N memnunum çünkü.
-Dialogue: 0,0:08:36.27,0:08:39.89,Default,,0,0,0,,Belki de değiştirmek istediğim \Nözel bir şey kalmadığı için,
-Dialogue: 0,0:08:40.48,0:08:42.48,Default,,0,0,0,,artık bu gücü tetikleyemiyorumdur.
-Dialogue: 0,0:08:46.36,0:08:47.90,Default,,0,0,0,,Bunu doğrulamak zor tabii.
-Dialogue: 0,0:08:48.49,0:08:51.20,Default,,0,0,0,,Ama bana böyle düşündürecek\N kadar mantıklı geliyor işte.
-Dialogue: 0,0:08:51.20,0:08:53.99,Default,,0,0,0,,Ya benim bu hikâyedeki\N rolüm tamamen bittiyse?
-Dialogue: 0,0:08:53.99,0:08:56.37,Default,,0,0,0,,O-Olamaz...
-Dialogue: 0,0:08:57.45,0:08:59.91,Default,,0,0,0,,PET SHOP\NXJ LAND
-Dialogue: 0,0:09:01.04,0:09:02.17,Default,,0,0,0,,Emin misin?
-Dialogue: 0,0:09:02.17,0:09:05.38,Default,,0,0,0,,Yani artık hiçbir şekilde \Nzamanda sıçrayamıyor musun?
-Dialogue: 0,0:09:05.38,0:09:06.92,Default,,0,0,0,,Öyle görünüyor.
-Dialogue: 0,0:09:06.92,0:09:08.42,Default,,0,0,0,,Anlaşıldı...
-Dialogue: 0,0:09:09.26,0:09:11.51,Default,,0,0,0,,Yani, Hina'yı kurtardık sonuçta, o yüzden...
-Dialogue: 0,0:09:12.05,0:09:14.72,Default,,0,0,0,,Düşününce... Mantıksız da gelmiyor.
-Dialogue: 0,0:09:15.72,0:09:21.23,Default,,0,0,0,,Chifuyu... Mikey'ye nasıl\Nulaşabileceğimi biliyor musun?
-Dialogue: 0,0:09:21.23,0:09:23.10,Default,,0,0,0,,Sadece onunla konuşmak istiyorum.
-Dialogue: 0,0:09:24.61,0:09:27.32,Default,,0,0,0,,O zamanlar buradaydın, neler oldu?
-Dialogue: 0,0:09:27.32,0:09:29.57,Default,,0,0,0,,Neden yine yoldan çıktı ki?
-Dialogue: 0,0:09:29.57,0:09:32.07,Default,,0,0,0,,Üstelik tam da ben geldikten hemen sonra...
-Dialogue: 0,0:09:33.20,0:09:34.70,Default,,0,0,0,,Sana bayağı garip geliyordur.
-Dialogue: 0,0:09:34.70,0:09:38.54,Default,,0,0,0,,Senin açından bakınca, daha dün\Neski bildiğin Mikey'ydi, değil mi?
-Dialogue: 0,0:09:39.16,0:09:43.00,Default,,0,0,0,,Ve o zamanlar... öylece çekip\Ngidecekmiş gibi durmuyordu hiç.
-Dialogue: 0,0:09:44.33,0:09:47.17,Default,,0,0,0,,Bildiğin şeylerden fazlasını söyleyemem sana.
-Dialogue: 0,0:09:47.17,0:09:49.38,Default,,0,0,0,,Basıp gitti işte, hepimiz aradık durduk.
-Dialogue: 0,0:09:50.92,0:09:53.59,Default,,0,0,0,,Ama sanki kimse kendisini\Nbulamasın istiyor gibiydi.
-Dialogue: 0,0:09:54.84,0:09:56.93,Default,,0,0,0,,Sadece özgür kalmak istedi belki de.
-Dialogue: 0,0:09:57.68,0:10:01.35,Default,,0,0,0,,Ve Mikey'yi birazcık tanıyorsam... \Nkendi yolunu çoktan çizmiştir.
-Dialogue: 0,0:10:01.35,0:10:02.64,Default,,0,0,0,,Kendi kararını kendi verdi.
-Dialogue: 0,0:10:05.11,0:10:09.07,Default,,0,0,0,,Ben de kararına saygı duyup\Naynısını yapmaya karar verdim.
-Dialogue: 0,0:10:09.69,0:10:10.90,Default,,0,0,0,,Chifuyu...
-Dialogue: 0,0:10:13.99,0:10:16.57,Default,,0,0,0,,Çocuk değiliz artık, biliyorsun değil mi?
-Dialogue: 0,0:10:16.57,0:10:18.03,Default,,0,0,0,,Kazık kadar adamlar olduk.
-Dialogue: 0,0:10:18.03,0:10:21.33,Default,,0,0,0,,Senin önündeki yol da \NHina'yla evliliğe çıkıyor artık.
-Dialogue: 0,0:10:21.33,0:10:23.37,Default,,0,0,0,,O yüzden toparlan, Takemitchy.
-Dialogue: 0,0:10:29.92,0:10:31.38,Default,,0,0,0,,Belki de Chifuyu haklıdır.
-Dialogue: 0,0:10:32.34,0:10:34.47,Default,,0,0,0,,Madem artık geçmişe gidemiyorum,
-Dialogue: 0,0:10:34.47,0:10:36.76,Default,,0,0,0,,zorlamanın hiçbir anlamı yok.
-Dialogue: 0,0:10:37.72,0:10:41.43,Default,,0,0,0,,Bir yolunu bulsam bile, \Nherkesin bu güzel geleceğini...
-Dialogue: 0,0:10:41.43,0:10:45.40,Default,,0,0,0,,...yanlışlıkla batırmayacağımı \Nkimse garanti edemez.
-Dialogue: 0,0:10:46.27,0:10:48.52,Default,,0,0,0,,Aynen öyle. Kafamı toplamalıyım.
-Dialogue: 0,0:10:51.36,0:10:53.32,Default,,0,0,0,,Kazık kadar adamlar olduk artık.
-Dialogue: 0,0:10:53.90,0:10:55.78,Default,,0,0,0,,Ne yaptığı beni hiç ilgilendirmez.
-Dialogue: 0,0:11:02.54,0:11:03.62,Default,,0,0,0,,Yine de...
-Dialogue: 0,0:11:05.00,0:11:06.75,Default,,0,0,0,,Arkamı dönüp gidemiyorum işte.
-Dialogue: 0,0:11:09.76,0:11:11.34,Default,,0,0,0,,Kazutora?
-Dialogue: 0,0:11:11.92,0:11:13.63,Default,,0,0,0,,Hapse girdiğinde...
-Dialogue: 0,0:11:14.38,0:11:17.26,Default,,0,0,0,,...zaman o an durur senin için.
-Dialogue: 0,0:11:18.30,0:11:21.60,Default,,0,0,0,,Ben Toman'ın da Mikey'nin de\Nolmadığı bir dünyaya uyandım.
-Dialogue: 0,0:11:22.18,0:11:24.39,Default,,0,0,0,,Üstelik herkes bunu normal karşılıyor.
-Dialogue: 0,0:11:25.64,0:11:27.40,Default,,0,0,0,,Başka bir zamandan gelmiş gibiyim.
-Dialogue: 0,0:11:28.98,0:11:31.48,Default,,0,0,0,,İşte tam da bu yüzden...
-Dialogue: 0,0:11:32.57,0:11:34.40,Default,,0,0,0,,Mikey'nin değişmediğini anlayabiliyorum.
-Dialogue: 0,0:11:35.57,0:11:38.74,Default,,0,0,0,,O hiçbir zaman kimseden\Nyardım isteyecek biri olmadı.
-Dialogue: 0,0:11:38.74,0:11:40.74,Default,,0,0,0,,Her şeyi tek başına sırtlanmaya çalışıyor.
-Dialogue: 0,0:11:40.74,0:11:43.16,Default,,0,0,0,,Doğru diyor, hep böyleydi.
-Dialogue: 0,0:11:43.66,0:11:47.42,Default,,0,0,0,,Bu yüzden, bunu isteyerek\Nyaptığını hiç sanmıyorum.
-Dialogue: 0,0:11:48.71,0:11:51.71,Default,,0,0,0,,Destek lazımsa ben varım.
-Dialogue: 0,0:11:52.65,0:11:55.94,Default,,0,0,0,,İşte bu be! Onu \Nkendimiz buluruz o zaman.
-Dialogue: 0,0:11:57.05,0:12:00.09,Default,,0,0,0,,Nereden başlayalım dersin?\NEski ekibin yanından mı?
-Dialogue: 0,0:12:00.09,0:12:01.30,Default,,0,0,0,,Süper olur.
-Dialogue: 0,0:12:02.01,0:12:04.85,Default,,0,0,0,,Geçmişe dönemiyorsam ne olmuş yani?
-Dialogue: 0,0:12:04.85,0:12:07.14,Default,,0,0,0,,Mikey'yi burada, şu anki \Nzamanda buluruz biz de.
-Dialogue: 0,0:12:07.81,0:12:10.10,Default,,0,0,0,,En azından yüzünü görmüş olurum.
-Dialogue: 0,0:12:10.69,0:12:12.90,Default,,0,0,0,,Ne kadar zaman alırsa alsın...
-Dialogue: 0,0:12:12.90,0:12:14.03,Default,,0,0,0,,Hadi yapalım şu işi!
-Dialogue: 0,0:12:14.65,0:12:18.27,Default,,0,0,0,,{\an8}18 HAZİRAN 2018
-Dialogue: 0,0:12:16.32,0:12:18.28,Default,,0,0,0,,Hâlâ en ufak bir gelişme yok.
-Dialogue: 0,0:12:18.28,0:12:20.62,Default,,0,0,0,,İki buçuk ay oldu bile.
-Dialogue: 0,0:12:21.24,0:12:24.08,Default,,0,0,0,,Acaba yaşıyor mu diye\Nşüphelenmeye başladım artık.
-Dialogue: 0,0:12:24.70,0:12:28.08,Default,,0,0,0,,Diğer üyeler hakkında da\N elimde pek bilgi yok.
-Dialogue: 0,0:12:28.08,0:12:31.30,Default,,0,0,0,,Biliyorum. \NFazla zorlamak tehlikeli.
-Dialogue: 0,0:12:31.30,0:12:33.54,Default,,0,0,0,,Lütfen bizim çocuklara da söyle bunu.
-Dialogue: 0,0:12:33.54,0:12:37.76,Default,,0,0,0,,Yok ya, takılma.\NYamagishi canı istediği için yapıyor.
-Dialogue: 0,0:12:37.76,0:12:39.47,Default,,0,0,0,,Dur bir dakika. \NBırakmıyorsun, değil mi?
-Dialogue: 0,0:12:39.47,0:12:40.47,Default,,0,0,0,,Hayır.
-Dialogue: 0,0:12:40.97,0:12:44.97,Default,,0,0,0,,Ne kadar vaktimi alsa da, son nefesimde bile olsa bulacağım onu.
-Dialogue: 0,0:12:45.81,0:12:49.64,Default,,0,0,0,,Gördüğüm tüm o şeylerden sonra\Nşundan adım gibi eminim.
-Dialogue: 0,0:12:49.64,0:12:52.73,Default,,0,0,0,,Direndiğim sürece bir şekilde\Nçözüme ulaşacaktır.
-Dialogue: 0,0:12:53.69,0:12:54.94,Default,,0,0,0,,HAKKAI
-Dialogue: 0,0:12:57.57,0:13:00.20,Default,,0,0,0,,Selam, Takemitchy! \NTokyo'ya yeni ayak bastım.
-Dialogue: 0,0:13:00.95,0:13:02.99,Default,,0,0,0,,Ooo harika, tekrar hoş geldin.
-Dialogue: 0,0:13:02.99,0:13:05.03,Default,,0,0,0,,Sonunda o büyük gün geldi.
-Dialogue: 0,0:13:05.03,0:13:06.62,Default,,0,0,0,,Ne? Hangi gün?
-Dialogue: 0,0:13:06.62,0:13:09.83,Default,,0,0,0,,- Yapma etme kanka, yarın 19 Haziran!\N- Tamam.
-Dialogue: 0,0:13:09.83,0:13:12.58,Default,,0,0,0,,Zaman kapsülü günü. Unuttun mu yoksa?
-Dialogue: 0,0:13:15.04,0:13:16.13,Default,,0,0,0,,{\an8}15 MART, 2006
-Dialogue: 0,0:13:16.13,0:13:17.63,Default,,0,0,0,,{\an8}Ee, sen ne gömdün?
-Dialogue: 0,0:13:17.63,0:13:19.92,Default,,0,0,0,,{\an8}Söylersem bütün eğlencesi kaçar, aptal herif.
-Dialogue: 0,0:13:19.92,0:13:22.63,Default,,0,0,0,,{\an8}Vay be, on iki yıl ha?\NÖlme eşeğim ölme yani.
-Dialogue: 0,0:13:22.64,0:13:24.51,Default,,0,0,0,,Bugün içine ne koyduğumuzu\Nunuturuz gibi geliyor bana.
-Dialogue: 0,0:13:24.51,0:13:27.72,Default,,0,0,0,,Aynen öyle.\NZaman kapsülünün olayı da bu zaten.
-Dialogue: 0,0:13:28.64,0:13:30.18,Default,,0,0,0,,Takvimlerinize not edin.
-Dialogue: 0,0:13:30.18,0:13:34.23,Default,,0,0,0,,Bundan on iki yıl sonra, 19 Haziran'da,
-Dialogue: 0,0:13:35.11,0:13:36.69,Default,,0,0,0,,Toman'ın kurulduğu gün\N hepinizle tekrar burada buluşalım.
-Dialogue: 0,0:13:45.24,0:13:47.33,Default,,0,0,0,,{\an8}19 HAZİRAN, 2018
-Dialogue: 0,0:13:47.33,0:13:50.29,Default,,0,0,0,,{\an8}Saatlerce beklememize rağmen\NMikey bir türlü gelmedi.
-Dialogue: 0,0:13:51.04,0:13:52.83,Default,,0,0,0,,Pek de şaşırtmadı açıkçası.
-Dialogue: 0,0:13:55.21,0:13:57.17,Default,,0,0,0,,Neyse, yapacak bir şey yok artık.
-Dialogue: 0,0:13:57.67,0:13:59.46,Default,,0,0,0,,Girişelim mi kazmaya?
-Dialogue: 0,0:14:01.26,0:14:03.43,Default,,0,0,0,,Lavuk resmen şaka gibi ya, değil mi?
-Dialogue: 0,0:14:03.43,0:14:05.14,Default,,0,0,0,,On yıldır tek bir haber bile çıkmadı heriften,
-Dialogue: 0,0:14:05.14,0:14:07.72,Default,,0,0,0,,bir de kalkmış kendi ayarladığı\N buluşmaya bile gelmiyor.
-Dialogue: 0,0:14:07.72,0:14:09.97,Default,,0,0,0,,Çeneyi kes de kap şu küreği.
-Dialogue: 0,0:14:09.97,0:14:12.27,Default,,0,0,0,,Hadi çabuk, hepinizin içine ne \Nkoyduğunu çok merak ediyorum.
-Dialogue: 0,0:14:12.27,0:14:14.56,Default,,0,0,0,,Valla en ufak bir fikrim bile yok.
-Dialogue: 0,0:14:14.56,0:14:17.06,Default,,0,0,0,,-Sen hatırlıyor musun, Taka?\N-Az buz.
-Dialogue: 0,0:14:17.07,0:14:19.78,Default,,0,0,0,,Yok artık! Bizimkinin hafızası zehirmiş be!
-Dialogue: 0,0:14:19.78,0:14:22.69,Default,,0,0,0,,Tamam, hadi başlayalım.
-Dialogue: 0,0:14:28.28,0:14:31.79,Default,,0,0,0,,Oha! Maziden bir yaprak!
-Dialogue: 0,0:14:31.79,0:14:33.75,Default,,0,0,0,,Bak sen, uçak kitabıymış.
-Dialogue: 0,0:14:33.75,0:14:37.88,Default,,0,0,0,,Evet, eskiden pilot olmayı çok isterdim.\NSürekli bunun hayalini kurardım.
-Dialogue: 0,0:14:37.88,0:14:40.55,Default,,0,0,0,,Bizim küçük bey uçmak mı istiyormuş?
-Dialogue: 0,0:14:40.55,0:14:43.72,Default,,0,0,0,,Hıyar herif! Ne istiyorsun ulan benden?\NBacak kadar çocuktuk daha o zaman!
-Dialogue: 0,0:14:43.72,0:14:47.05,Default,,0,0,0,,Sanki sen 14 yaşında çok cool* takılıyordun!
-Dialogue: 0,0:14:43.72,0:14:47.05,Default,,0,0,0,,{\an7\fscx75\fscy75}*(İng.): Cool: Soğukkanlı, rahat, karizmatik ve kendinden emin olan, olaylar karşısında telaşlanmayan kimse veya tarz demektir.
-Dialogue: 0,0:14:47.05,0:14:50.97,Default,,0,0,0,,Bak birader, tek dediğim şey şaşırmaman.
-Dialogue: 0,0:14:50.97,0:14:53.93,Default,,0,0,0,,12 YIL SONRA HAKKAI SHIBA:\NASTRONOT MU OLACAKSIN?
-Dialogue: 0,0:14:53.94,0:14:57.02,Default,,0,0,0,,Ciddi misin sen ya?\NBir de benimkine çocukça diyordun.
-Dialogue: 0,0:14:57.73,0:15:01.40,Default,,0,0,0,,Yani, uzaya çıkmanın en iyi yolu\Nhiç çabalamamak zaten.
-Dialogue: 0,0:15:01.40,0:15:04.57,Default,,0,0,0,,Madem öyle, seninkini \Naçmaya ne dersin, Taka?
-Dialogue: 0,0:15:04.57,0:15:07.12,Default,,0,0,0,,{\an7\fscx75\fscy75}*(İng.): Cringe: Günlük ve internet dilinde “utanç verici”, “yüz kızartıcı” veya “başkası adına utanmak” anlamlarında kullanılır.
-Dialogue: 0,0:15:04.57,0:15:07.12,Default,,0,0,0,,Madem hiç cringe* değildin,\Nhadi seninkini görelim.
-Dialogue: 0,0:15:07.70,0:15:09.12,Default,,0,0,0,,Benimki bu.
-Dialogue: 0,0:15:09.12,0:15:10.74,Default,,0,0,0,,Hassiktir oradan la!
-Dialogue: 0,0:15:10.74,0:15:13.62,Default,,0,0,0,,Kaçıncı sınıfa kadar oyuncakla\Nuyudun sen öyle?
-Dialogue: 0,0:15:13.62,0:15:14.79,Default,,0,0,0,,Kes la çeneni!
-Dialogue: 0,0:15:16.17,0:15:21.21,Default,,0,0,0,,"Gelecekteki bana: Nereden \Ngeldiğini sakın unutma." Bak sen.
-Dialogue: 0,0:15:21.21,0:15:23.30,Default,,0,0,0,,Çocukken durumumuz harbi çok kötüydü,
-Dialogue: 0,0:15:23.30,0:15:26.63,Default,,0,0,0,,Luna'yla Mana'ya hak \Nettikleri oyuncakları alamıyordum.
-Dialogue: 0,0:15:27.34,0:15:30.10,Default,,0,0,0,,Onlar için kendi ellerimle diktiğim\Nilk peluş oyuncak buydu.
-Dialogue: 0,0:15:30.81,0:15:32.22,Default,,0,0,0,,Vay anasını.
-Dialogue: 0,0:15:32.22,0:15:36.27,Default,,0,0,0,,Beni dikiş nakış işlerine\N bulaştıran da buydu zaten.
-Dialogue: 0,0:15:36.27,0:15:38.10,Default,,0,0,0,,Çok geçmeden aklıma bir \Nşekilde düşüverdi işte;
-Dialogue: 0,0:15:38.10,0:15:40.90,Default,,0,0,0,,kıyafet tasarlayıp hayatımı \Nkazanmak zevkli olabilir diye.
-Dialogue: 0,0:15:41.73,0:15:43.57,Default,,0,0,0,,Geliştiğimi görmek güzel.
-Dialogue: 0,0:15:44.28,0:15:48.57,Default,,0,0,0,,Bilirsin, eskiden buna çok bilenirdim\Nama fakir olmak beni ben yapan şey oldu.
-Dialogue: 0,0:15:50.07,0:15:52.12,Default,,0,0,0,,Öğrendiklerim, gelişmem...
-Dialogue: 0,0:15:52.12,0:15:53.45,Default,,0,0,0,,PROFESYONEL\NİPEK GİBİ DÜZ SAÇLAR
-Dialogue: 0,0:15:53.45,0:15:54.66,Default,,0,0,0,,Şuna bak: "Ey piyasacı lavuk,
-Dialogue: 0,0:15:54.66,0:15:58.83,Default,,0,0,0,,mekânda piyasa yaparken \Nsaçların ipek gibi savrulsun diye."
-Dialogue: 0,0:15:58.83,0:16:01.88,Default,,0,0,0,,Şuna bak ya, inanabiliyor musun?\NPerma ilacı ne alaka ulan?
-Dialogue: 0,0:16:01.88,0:16:05.13,Default,,0,0,0,,Sahi mi? Sen her zaman ipek gibi düz saçların olsun istemiyor muydun?
-Dialogue: 0,0:16:06.05,0:16:07.92,Default,,0,0,0,,UMARIM SMILEY'YLE BİRLİKTE ALNIMIZIN \NAKIYLA, DÜZGÜN İŞLER YAPIYORUZDUR.
-Dialogue: 0,0:16:07.93,0:16:08.93,Default,,0,0,0,,SOUYA
-Dialogue: 0,0:16:10.64,0:16:12.47,Default,,0,0,0,,Oha, Angry gülümsedi lan!
-Dialogue: 0,0:16:13.14,0:16:14.85,Default,,0,0,0,,"Pah-chin'e:
-Dialogue: 0,0:16:14.85,0:16:17.89,Default,,0,0,0,,İçeride altı ayı, koskoca \Nyarım seneyi devirdin.
-Dialogue: 0,0:16:17.89,0:16:20.86,Default,,0,0,0,,Gittiğinden beri her gün içim cız \Nediyor, bağrımda bir boşluk var.
-Dialogue: 0,0:16:21.52,0:16:25.28,Default,,0,0,0,,Ne olur çabuk çık da\Nortalığın anasını tekrar ağlatabilelim.
-Dialogue: 0,0:16:25.28,0:16:26.65,Default,,0,0,0,,Ryohei Hayashi."
-Dialogue: 0,0:16:27.78,0:16:31.66,Default,,0,0,0,,"Dipnot: Çok bayıldığın o çıplak karılı\Ndergiyi de koyuyorum."
-Dialogue: 0,0:16:31.66,0:16:34.70,Default,,0,0,0,,Ulan hayatımın en güzel günü be!
-Dialogue: 0,0:16:34.70,0:16:37.79,Default,,0,0,0,,Aman diyeyim, yenge duymasın\N bunu aslanım, tamam mı?
-Dialogue: 0,0:16:37.79,0:16:40.17,Default,,0,0,0,,Dünyanın en ballı piçiyim ben be!
-Dialogue: 0,0:16:45.34,0:16:47.09,Default,,0,0,0,,Draken, sen ne koymuşsun kapsüle?
-Dialogue: 0,0:16:49.38,0:16:50.97,Default,,0,0,0,,BİRİNCİ NESİL\NTOKYO MANJI
-Dialogue: 0,0:16:50.97,0:16:53.26,Default,,0,0,0,,-Bu.\N-Toman'ın dağıldığı gün mü??
-Dialogue: 0,0:16:54.72,0:16:56.77,Default,,0,0,0,,"Gelecekteki bana.
-Dialogue: 0,0:16:56.77,0:16:58.48,Default,,0,0,0,,Ken Ryuguji.
-Dialogue: 0,0:16:59.60,0:17:00.77,Default,,0,0,0,,Keyifler nasıl, iyi misin?
-Dialogue: 0,0:17:01.44,0:17:03.44,Default,,0,0,0,,Hâlâ motor hastası mısın?
-Dialogue: 0,0:17:04.11,0:17:05.94,Default,,0,0,0,,Evlendin mi bari?
-Dialogue: 0,0:17:05.94,0:17:07.40,Default,,0,0,0,,Çoluk çocuk var mı?
-Dialogue: 0,0:17:08.03,0:17:11.49,Default,,0,0,0,,Mikey nasıl? Hâlâ seni peşinden \Noraya buraya sürüklüyor mu?
-Dialogue: 0,0:17:13.66,0:17:16.66,Default,,0,0,0,,Bir yol ayrımında olduğumu fark ettim.
-Dialogue: 0,0:17:17.62,0:17:18.95,Default,,0,0,0,,Toman dağılıyor.
-Dialogue: 0,0:17:20.00,0:17:22.50,Default,,0,0,0,,Dostlarımın, kardeşlerimin önünde
-Dialogue: 0,0:17:22.50,0:17:24.67,Default,,0,0,0,,bu karara hiçbir itirazım olmadığını söyledim.
-Dialogue: 0,0:17:25.25,0:17:26.46,Default,,0,0,0,,Keşke demeseydim.
-Dialogue: 0,0:17:27.71,0:17:29.55,Default,,0,0,0,,Toman benim her şeyimdi,
-Dialogue: 0,0:17:30.05,0:17:32.18,Default,,0,0,0,,bunu tek hisseden de ben değilim.
-Dialogue: 0,0:17:33.97,0:17:35.14,Default,,0,0,0,,Öfkeden delirdim.
-Dialogue: 0,0:17:36.31,0:17:37.39,Default,,0,0,0,,Ağladım.
-Dialogue: 0,0:17:38.31,0:17:43.02,Default,,0,0,0,,Ve... Mikey'nin benden çok daha fazla acı çektiğini adım gibi biliyorum."
-Dialogue: 0,0:17:44.98,0:17:48.78,Default,,0,0,0,,"O yüzden tüm pişmanlıklarımı tam da burada,\Nşu an, sonsuza dek arkamda bırakıyorum.
-Dialogue: 0,0:17:49.94,0:17:52.36,Default,,0,0,0,,Yaşlanıp kendi yolunu çizdiğinde,
-Dialogue: 0,0:17:53.41,0:17:55.99,Default,,0,0,0,,çocukluğuna dair diğer her şeyi unutabilirsin.
-Dialogue: 0,0:17:57.03,0:17:59.95,Default,,0,0,0,,Ama sakın ola...
-Dialogue: 0,0:17:59.95,0:18:01.66,Default,,0,0,0,,...yanında Emma'nın olduğunu unutayım deme.
-Dialogue: 0,0:18:02.42,0:18:03.62,Default,,0,0,0,,Her zaman vardı.
-Dialogue: 0,0:18:04.67,0:18:05.96,Default,,0,0,0,,Ve hâlâ da var."
-Dialogue: 0,0:18:13.55,0:18:16.80,Default,,0,0,0,,Peki madem, kendisi yapmayacaksa…
-Dialogue: 0,0:18:18.26,0:18:19.35,Default,,0,0,0,,KENDİME\NMANJIRO SANO
-Dialogue: 0,0:18:19.35,0:18:20.98,Default,,0,0,0,,…onunkini de açalım gitsin derim.
-Dialogue: 0,0:18:24.56,0:18:27.52,Default,,0,0,0,,Gelecekteki kendimize \Nmektup yazmalıyız bence.
-Dialogue: 0,0:18:27.52,0:18:28.90,Default,,0,0,0,,Hesaplaşma zamanı.
-Dialogue: 0,0:18:29.86,0:18:32.32,Default,,0,0,0,,Belki Mikey şu an nerede \Nolduğuna dair bir ipucu bırakmıştır.
-Dialogue: 0,0:18:33.07,0:18:36.41,Default,,0,0,0,,Veya o gün o sözleri söylerken gerçekten ne düşündüğüne dair.
-Dialogue: 0,0:18:39.54,0:18:43.04,Default,,0,0,0,,"Gelecekteki bana, Manjiro Sano.
-Dialogue: 0,0:18:44.00,0:18:45.33,Default,,0,0,0,,Bundan on iki yıl sonra,
-Dialogue: 0,0:18:45.92,0:18:47.71,Default,,0,0,0,,acaba ne yapıyor olacağım?
-Dialogue: 0,0:18:48.50,0:18:50.00,Default,,0,0,0,,Hayal bile edemiyorum."
-Dialogue: 0,0:18:50.76,0:18:53.01,Default,,0,0,0,,Bence Mitsuya moda işine girmiştir.
-Dialogue: 0,0:18:53.01,0:18:54.63,Default,,0,0,0,,Girmediyse şaşarım zaten.
-Dialogue: 0,0:18:55.43,0:18:57.59,Default,,0,0,0,,Kesin havalı bi' butikte çalışıp
-Dialogue: 0,0:18:57.60,0:18:59.43,Default,,0,0,0,,acayip kıyafetler tasarlıyordur.
-Dialogue: 0,0:19:00.22,0:19:03.48,Default,,0,0,0,,Hakkai de kesin benzer bi' iş yapıyordur.
-Dialogue: 0,0:19:04.10,0:19:06.31,Default,,0,0,0,,Mitsuya'ya o kadar \Nhayran ki başka türlüsü olmaz.
-Dialogue: 0,0:19:06.94,0:19:10.44,Default,,0,0,0,,Pah-chin kesin babasının \Nemlak işini devralmıştır.
-Dialogue: 0,0:19:10.44,0:19:13.11,Default,,0,0,0,,-Vay be...\N-Aynen, babasını hep örnek alırdı.
-Dialogue: 0,0:19:13.11,0:19:15.45,Default,,0,0,0,,Peh-yan da kesin onun yanındadır.
-Dialogue: 0,0:19:15.45,0:19:17.70,Default,,0,0,0,,O ikisini birbirinden ayıramazsın.
-Dialogue: 0,0:19:19.45,0:19:22.74,Default,,0,0,0,,Smiley desen, herif zaten biraz çatlak.
-Dialogue: 0,0:19:22.75,0:19:25.16,Default,,0,0,0,,Kesin çılgınca bi' işler peşindedir.
-Dialogue: 0,0:19:25.16,0:19:27.96,Default,,0,0,0,,Ama Angry arkasını kolladıkça bi' şey olmaz.
-Dialogue: 0,0:19:27.96,0:19:29.92,Default,,0,0,0,,Bi' tek beni mi gömüyorsunuz ya?
-Dialogue: 0,0:19:29.92,0:19:32.96,Default,,0,0,0,,Kenny'nin geleceği belli.\NMotorcu dükkânı açar.
-Dialogue: 0,0:19:32.96,0:19:34.63,Default,,0,0,0,,Adım gibi eminim.
-Dialogue: 0,0:19:34.63,0:19:36.88,Default,,0,0,0,,O herifi herkesten iyi tanırım.
-Dialogue: 0,0:19:36.88,0:19:39.01,Default,,0,0,0,,-Chifuyu da Baji'nin hatırasını yaşatır.\N-Ha?
-Dialogue: 0,0:19:39.01,0:19:42.10,Default,,0,0,0,,Nasıl yapar bilmem ama onu \Nanmak için kesin bi' şeyler yapar.
-Dialogue: 0,0:19:43.97,0:19:45.43,Default,,0,0,0,,"Takemitchy.
-Dialogue: 0,0:19:45.43,0:19:48.73,Default,,0,0,0,,Hina'yı hâlâ mutlu edemediysen\Nseni kendi ellerimle gebertirim.
-Dialogue: 0,0:19:50.02,0:19:52.65,Default,,0,0,0,,Ama Toman'ı sırf ikiniz için dağıtmıyorum.
-Dialogue: 0,0:19:53.61,0:19:55.07,Default,,0,0,0,,Hepimiz için yapıyorum bunu.
-Dialogue: 0,0:19:55.86,0:19:59.78,Default,,0,0,0,,Artık büyüme vakti. Bunun \Niçin ihtiyacımız olan şeyler...
-Dialogue: 0,0:19:59.78,0:20:04.66,Default,,0,0,0,,...burada yok. O yüzden çıkın \Nyola, sizi bekleyenleri keşfedin.
-Dialogue: 0,0:20:05.41,0:20:07.54,Default,,0,0,0,,Ben de kendi yolumu bulmaya gidiyorum.
-Dialogue: 0,0:20:08.33,0:20:10.84,Default,,0,0,0,,Belki bir daha hiç görüşemeyeceğiz."
-Dialogue: 0,0:20:16.17,0:20:19.47,Default,,0,0,0,,Emin misin? Bugün daha \N19 Haziran. Vaktin var.
-Dialogue: 0,0:20:20.18,0:20:22.51,Default,,0,0,0,,Yok, gerek yok.
-Dialogue: 0,0:20:25.93,0:20:28.44,Default,,0,0,0,,"Ama unutmayın, bunun bir önemi yok.
-Dialogue: 0,0:20:29.19,0:20:33.48,Default,,0,0,0,,Çünkü ne kadar uzak düşsek de\Naramızdaki bağ asla kopmayacak."
-Dialogue: 0,0:20:38.65,0:20:40.70,Default,,0,0,0,,Biliyor musun, bu fikir hoşuma gitti.
-Dialogue: 0,0:20:41.41,0:20:44.62,Default,,0,0,0,,Demek büyümek biraz da böyle bi' şey.
-Dialogue: 0,0:20:44.62,0:20:47.37,Default,,0,0,0,,"Çıkın yola, sizi bekleyenleri keşfedin."
-Dialogue: 0,0:20:47.37,0:20:51.21,Default,,0,0,0,,Aynen. Hem o yolculuk\Nhayatın boyunca sürecek.
-Dialogue: 0,0:20:51.21,0:20:54.42,Default,,0,0,0,,İyi ki bugün gelmişim be.
-Dialogue: 0,0:20:55.34,0:20:57.42,Default,,0,0,0,,Mikey yüzünden gelmeyecektim az kalsın.
-Dialogue: 0,0:20:58.55,0:21:00.34,Default,,0,0,0,,İçim bi' tuhaftı.
-Dialogue: 0,0:21:01.09,0:21:04.55,Default,,0,0,0,,Ama ayrı olsak da...
-Dialogue: 0,0:21:04.56,0:21:07.06,Default,,0,0,0,,...bir yerlerde bizi \Ndüşündüğünü bilmek güzel.
-Dialogue: 0,0:21:07.06,0:21:09.60,Default,,0,0,0,,Aynen, haklısın.
-Dialogue: 0,0:21:10.52,0:21:14.52,Default,,0,0,0,,Biz de onu unutmadıkça\Naramızdaki bağ kopmaz.
-Dialogue: 0,0:21:15.44,0:21:19.78,Default,,0,0,0,,Belki de Mikey'yi ille de \Nbulmaya çalışmamız boşunaydı.
-Dialogue: 0,0:21:21.70,0:21:25.03,Default,,0,0,0,,Hepimiz dört bir yana \Ndağılsak da kalplerimiz bir.
-Dialogue: 0,0:21:25.66,0:21:28.62,Default,,0,0,0,,Neyse, yola devam!
-Dialogue: 0,0:21:31.04,0:21:32.12,Default,,0,0,0,,TAKEMICHI HANAGAKI
-Dialogue: 0,0:21:32.12,0:21:34.38,Default,,0,0,0,,Harbi ben açmadan hepiniz gittiniz mi?
-Dialogue: 0,0:21:34.38,0:21:37.59,Default,,0,0,0,,Ayıp lan size! Neyse, \Nben de unutmuşum zaten.
-Dialogue: 0,0:21:39.59,0:21:40.72,Default,,0,0,0,,Bakalım...
-Dialogue: 0,0:21:41.34,0:21:43.64,Default,,0,0,0,,"Umarım herkes mutlu olur."
-Dialogue: 0,0:21:44.43,0:21:45.55,Default,,0,0,0,,Bu kadar mı?
-Dialogue: 0,0:21:46.89,0:21:49.23,Default,,0,0,0,,İyi ki kimse görmedi bunu.
-Dialogue: 0,0:21:54.27,0:21:56.69,Default,,0,0,0,,Bu da ne lan? Video kaseti mi?
-Dialogue: 0,0:21:57.61,0:21:59.57,Default,,0,0,0,,Bunu buraya ben mi koydum?
-Dialogue: 0,0:23:41.00,0:23:42.50,Default,,0,0,0,,PETIT - #3 "BÜYÜK KÖPEK VE\NKEDİ KAÇIŞ PLANI!"
-Dialogue: 0,0:23:42.50,0:23:43.59,Default,,0,0,0,,Masal Revengers.
-Dialogue: 0,0:23:45.51,0:23:47.51,Default,,0,0,0,,Şşt, dayanabiliyor musun?
-Dialogue: 0,0:23:47.51,0:23:51.76,Default,,0,0,0,,Şerefsizlere bak. Kendileri keyif çatarken\Nbütün angaryayı bize yıkmışlar.
-Dialogue: 0,0:23:52.64,0:23:54.35,Default,,0,0,0,,Hey!
-Dialogue: 0,0:23:54.35,0:23:57.85,Default,,0,0,0,,Siz ikiniz, şehre gidin.\NPara bulmadan dönmeyin!
-Dialogue: 0,0:23:57.85,0:23:59.27,Default,,0,0,0,,Bi' dakika...
-Dialogue: 0,0:23:59.27,0:24:01.31,Default,,0,0,0,,Kaçmak için bi' fırsat mı bu?
-Dialogue: 0,0:24:01.32,0:24:03.98,Default,,0,0,0,,Odun kesmek güzel de\Npek para getirmiyor.
-Dialogue: 0,0:24:03.98,0:24:06.69,Default,,0,0,0,,Hazır gitmişken başka bi' iş de bulun.
-Dialogue: 0,0:24:06.70,0:24:09.61,Default,,0,0,0,,-Ciddi misin?\N-Ama o bizim uzmanlık alanımız!
-Dialogue: 0,0:24:09.62,0:24:11.28,Default,,0,0,0,,Başlamak için can atıyorum!
-Dialogue: 0,0:24:11.28,0:24:12.70,Default,,0,0,0,,Valla ben de!
-Dialogue: 0,0:24:12.70,0:24:14.45,Default,,0,0,0,,Güzel. O zaman şunları takın.
-Dialogue: 0,0:24:14.45,0:24:15.95,Default,,0,0,0,,Ha?
-Dialogue: 0,0:24:15.96,0:24:19.21,Default,,0,0,0,,Bunlar kasabaya kadar uzanır,\Nmerak etmeyin.
-Dialogue: 0,0:24:19.21,0:24:20.79,Default,,0,0,0,,Bu şey ne kadar uzun lan?
-Dialogue: 0,0:24:20.79,0:24:23.88,Default,,0,0,0,,Gözümün önünden kaybolmanıza\Nizin veremem. Kaçmazsınız ya, ha?
-Dialogue: 0,0:24:23.88,0:24:25.38,Default,,0,0,0,,Yok yok, cesaret edemezsiniz.
-Dialogue: 0,0:24:25.38,0:24:26.92,Default,,0,0,0,,{\an8\fnArial\b1\c&HFFFFFF&\3c&H3361E6&\bord9\shad0\pos(1610,824)}DEVAM EDECEK
-Dialogue: 0,0:24:25.38,0:24:26.92,Default,,0,0,0,,HİYAA!
+Dialogue: 0,0:00:00.00,0:00:11.58,Arial,,0,0,0,,{\an4\fnLT Comical\fscx95\fscy95\bord2.2\shad2.2\blur0.6\3c&H000000&\4c&H000000&\pos(40,520)}{\c&HFF901E&}Çeviri: {\c&HFFFFFF&}Ata, Xenrok, ka4qnn, shxd.{\fscy34.5}\N{\fscy95\c&HFF901E&}Redaksiyon: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Encode: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Upload: {\c&HFFFFFF&}shxd.{\fscy34.5}\N{\fscx76.5\fscy76.5\c&HAAAAAA&\b0}discord.gg/luminaceviri{\b1}
+Dialogue: 0,0:00:06.47,0:00:10.34,Default,,0,0,0,,Hâlâ çalışıyor olması lazım. \NÇizik bile yok üstünde.
+Dialogue: 0,0:00:10.34,0:00:13.60,Default,,0,0,0,,Al bunu, şuradaki masaya koyup izleyebilirsin.
+Dialogue: 0,0:00:13.60,0:00:16.14,Default,,0,0,0,,Oha lan! Tam nostalji ha!
+Dialogue: 0,0:00:16.14,0:00:19.93,Default,,0,0,0,,Kaset çalarlı tüplü televizyon mu?
+Dialogue: 0,0:00:19.93,0:00:22.20,Default,,0,0,0,,Hâlâ çalışıyor olması acayip havalı be!
+Dialogue: 0,0:00:25.78,0:00:28.11,Default,,0,0,0,,{\i1}Bunu hiç hatırlamıyorum lan.{\i0}
+Dialogue: 0,0:00:28.11,0:00:29.74,Default,,0,0,0,,{\i1}Acaba içinde ne var?{\i0}
+Dialogue: 0,0:00:29.74,0:00:32.28,Default,,0,0,0,,{\i1}Karı kız videosu falan \Nçıkarsa rezil olurum valla.{\i0}
+Dialogue: 0,0:00:37.00,0:00:38.78,Default,,0,0,0,,Tamamdır, çalıştı galiba.
+Dialogue: 0,0:00:38.78,0:00:42.17,Default,,0,0,0,,Oha, hâlâ kullanmayı öğrenemedin mi ya? Liseli değil miydin sen?
+Dialogue: 0,0:00:42.17,0:00:43.75,Default,,0,0,0,,Kes sesini be.
+Dialogue: 0,0:00:45.46,0:00:47.60,Default,,0,0,0,,Aha, kırmızı ışık yandı. Oldu bu iş.
+Dialogue: 0,0:00:50.68,0:00:54.72,Default,,0,0,0,,{\an8}Küçük kardeşim şimdi döner tekmeyle\Nşu şişenin kapağını uçuracak.
+Dialogue: 0,0:00:54.72,0:00:56.97,Default,,0,0,0,,Ha? Kim bu ya?
+Dialogue: 0,0:01:00.77,0:01:03.10,Default,,0,0,0,,Sakın korkup kamerayı oynatma, Shinichiro.
+Dialogue: 0,0:01:03.11,0:01:06.52,Default,,0,0,0,,Daha dört yaşındasın, beni \Nkorkutabileceğini mi sanıyorsun?
+Dialogue: 0,0:01:06.53,0:01:08.65,Default,,0,0,0,,-{\i1}Geliyorum!{\i0}\N-{\i1}Hadi bakalım!{\i0}
+Dialogue: 0,0:01:10.82,0:01:13.03,Default,,0,0,0,,{\i1}İlk denemede mi? Ananı avradını!{\i0}
+Dialogue: 0,0:01:15.53,0:01:16.83,Default,,0,0,0,,{\i1}Bu Mikey.{\i0}
+Dialogue: 0,0:01:18.00,0:01:21.33,Default,,0,0,0,,{\i1}Böyle bir şey zaman kapsülünde\nne arıyor ki?{\i0}
+Dialogue: 0,0:01:22.50,0:01:23.58,Default,,0,0,0,,Sıcakmış.
+Dialogue: 0,0:01:29.09,0:01:30.63,Default,,0,0,0,,Ha?
+Dialogue: 0,0:01:30.63,0:01:32.97,Default,,0,0,0,,Mikey, ne zamandır\Norada dikiliyorsun lan sen?
+Dialogue: 0,0:01:32.97,0:01:35.43,Default,,0,0,0,,Çekmesene oğlum! \NRezil edeceksin bizi.
+Dialogue: 0,0:01:35.43,0:01:37.85,Default,,0,0,0,,{\i1}Sano ailesinin ev videoları mı?{\i0}
+Dialogue: 0,0:01:38.47,0:01:40.39,Default,,0,0,0,,{\i1}Bunu bana neden bıraktı ki?{\i0}
+Dialogue: 0,0:01:40.39,0:01:41.98,Default,,0,0,0,,-Sıra bende.\N-Hadi oradan be.
+Dialogue: 0,0:01:50.82,0:01:53.03,Default,,0,0,0,,Tam 12 yıl oldu, Takemitchy.
+Dialogue: 0,0:03:25.20,0:03:29.30,Default,,0,0,0,,{\an3\fnTimes New Roman\fs90\b0\c&H0A0BA6&\3c&H11142A&\4c&H0E1020&\bord1.2\blur3.5\shad1.5\pos(1816.667,946)}#54 Bana Bir El Uzat
+Dialogue: 0,0:03:24.46,0:03:26.37,Default,,0,0,0,,{\an8}Tam 12 yıl oldu, Takemitchy.
+Dialogue: 0,0:03:26.96,0:03:28.63,Default,,0,0,0,,{\an8\i1}Mikey...{\i0}
+Dialogue: 0,0:03:30.13,0:03:32.25,Default,,0,0,0,,{\an8}Mektubumu çoktan okumuşsundur.
+Dialogue: 0,0:03:33.09,0:03:35.34,Default,,0,0,0,,{\an8}Ama sana özel söyleyeceklerim var.
+Dialogue: 0,0:03:38.60,0:03:41.35,Default,,0,0,0,,{\i0}{\an8}Bana videolu mesaj mı bırakmış?
+Dialogue: 0,0:03:41.85,0:03:43.39,Default,,0,0,0,,{\an8\i1}Kendimi biraz...{\i0}
+Dialogue: 0,0:03:45.43,0:03:49.90,Default,,0,0,0,,{\i1}Nasıl anlatsam bilmiyorum.\N Sanki içimde başka bir ben var.{\i0}
+Dialogue: 0,0:03:49.90,0:03:51.27,Default,,0,0,0,,{\i1}Ha?{\i0}
+Dialogue: 0,0:03:54.65,0:03:56.19,Default,,0,0,0,,Karanlık dürtülere kapılıyorum.
+Dialogue: 0,0:03:58.74,0:04:01.45,Default,,0,0,0,,{\i1}Beni ele geçirdiklerinde, nasıl desem...{\i0}
+Dialogue: 0,0:04:02.32,0:04:03.99,Default,,0,0,0,,{\i1}...kendim olmaktan çıkıyorum...{\i0}
+Dialogue: 0,0:04:04.41,0:04:06.53,Default,,0,0,0,,{\i1}...ve buna engel olamıyorum.{\i0}
+Dialogue: 0,0:04:06.95,0:04:08.33,Default,,0,0,0,,{\i1}Dürtü mü?{\i0}
+Dialogue: 0,0:04:08.92,0:04:11.00,Default,,0,0,0,,{\i1}Buna sen de şahit oldun.{{\i0}
+Dialogue: 0,0:04:11.00,0:04:12.29,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:04:14.59,0:04:16.47,Default,,0,0,0,,{\i1}Acaba o zamanı mı kastediyor...{\i0}
+Dialogue: 0,0:04:22.76,0:04:25.85,Default,,0,0,0,,{\i1}Eğer Baji o anda araya \Ngirip onu durdurmasaydı...{\i0}
+Dialogue: 0,0:04:31.06,0:04:35.81,Default,,0,0,0,,{\i1}Mikey'nin gözü dönüp Kazutora'ya saldırdığı o gün, az kalsın onu öldürecekti.{\i0}
+Dialogue: 0,0:04:44.28,0:04:48.16,Default,,0,0,0,,Kendimi tutabilmemin tek sebebi, açıkçası...
+Dialogue: 0,0:04:50.00,0:04:54.20,Default,,0,0,0,,{\i1}...Shinichiro'nun, Emma'nın\Nve tabii Baji'nin yanımda olmasıydı.{\i0}
+Dialogue: 0,0:04:55.64,0:04:58.22,Default,,0,0,0,,Ama bir bak etrafa. Hiçbiri yok artık.
+Dialogue: 0,0:05:01.18,0:05:03.64,Default,,0,0,0,,12 yıl sonra kim olacağımdan korkuyorum.
+Dialogue: 0,0:05:04.43,0:05:06.85,Default,,0,0,0,,{\i1}Biliyorum ki etrafımdaki herkesin\Nhayatını zindan edeceğim...{\i0}
+Dialogue: 0,0:05:07.64,0:05:11.81,Default,,0,0,0,,{\i1}...bu yüzden Toman'daki herkesle \nbağımı bugünden itibaren koparıyorum.{\i0}
+Dialogue: 0,0:05:12.35,0:05:13.65,Default,,0,0,0,,{\i1}Onları bu işe bulaştıramam.{\i0}
+Dialogue: 0,0:05:16.11,0:05:17.36,Default,,0,0,0,,Duydun mu beni?
+Dialogue: 0,0:05:17.94,0:05:19.07,Default,,0,0,0,,Bu seni de kapsıyor.
+Dialogue: 0,0:05:19.61,0:05:23.40,Default,,0,0,0,,{\i1}Gelecekte sakın ola\Nyanıma yaklaşayım deme.{\i0}
+Dialogue: 0,0:05:23.40,0:05:27.00,Default,,0,0,0,,{\i1}Beni kurtarmak için geçmişe\N dönmeyi falan da sakın düşünme.{\i0}
+Dialogue: 0,0:05:27.00,0:05:28.16,Default,,0,0,0,,{\i1}Anlaşıldı mı?{\i0}
+Dialogue: 0,0:05:29.25,0:05:31.41,Default,,0,0,0,,Benim kendi seçtiğim yol bu.
+Dialogue: 0,0:05:33.67,0:05:38.29,Default,,0,0,0,,{\i1}Takemitchy, bir daha seninle görüşemeyeceğiz.{\i0}
+Dialogue: 0,0:05:38.96,0:05:41.13,Default,,0,0,0,,{\i1}O yüzden bana bir söz ver.{\i0}
+Dialogue: 0,0:05:41.13,0:05:42.67,Default,,0,0,0,,{\i1}Ne sözü?{\i0}
+Dialogue: 0,0:05:44.18,0:05:45.64,Default,,0,0,0,,Mutlu ol yeter.
+Dialogue: 0,0:05:46.81,0:05:48.14,Default,,0,0,0,,{\i1}Dur.{\i0}
+Dialogue: 0,0:05:48.77,0:05:50.68,Default,,0,0,0,,{\i1}O şekilde gülümseme.{\i0}
+Dialogue: 0,0:05:59.99,0:06:02.30,Default,,0,0,0,,{\i1}Demek bir şeyler olduğu için\Nortadan kaybolmamış.{\i0}
+Dialogue: 0,0:06:02.30,0:06:04.28,Default,,0,0,0,,{\i1}Kimsenin suçu değilmiş.{\i0}
+Dialogue: 0,0:06:04.91,0:06:09.45,Default,,0,0,0,,{\i1}Her şey Mikey'nin içindeki o lanet olası "Karanlık Dürtü" yüzünden.{\i0}
+Dialogue: 0,0:06:11.54,0:06:13.79,Default,,0,0,0,,{\i1}Sanırım bu konuda kimsenin\Nyapabileceği bir şey yok.{\i0}
+Dialogue: 0,0:06:22.55,0:06:25.59,Default,,0,0,0,,Takemitchy! Bütün gün\N sana ulaşmaya çalıştım.
+Dialogue: 0,0:06:25.59,0:06:27.18,Default,,0,0,0,,Ah, kusura bakma.
+Dialogue: 0,0:06:27.18,0:06:30.51,Default,,0,0,0,,Sonunda Bonten hakkında sağlam bir ipucu buldum. Shinjuku'da--
+Dialogue: 0,0:06:30.51,0:06:31.47,Default,,0,0,0,,Kazutora.
+Dialogue: 0,0:06:32.64,0:06:34.43,Default,,0,0,0,,Dinle, bırakalım bu işi artık.
+Dialogue: 0,0:06:39.10,0:06:41.65,Default,,0,0,0,,Hey, Takemitchy?
+Dialogue: 0,0:06:41.65,0:06:43.24,Default,,0,0,0,,Çekiliyor musun?
+Dialogue: 0,0:06:43.24,0:06:46.40,Default,,0,0,0,,Evet, çekiliyorum. Bonten'in\N peşini bırakacağım artık.
+Dialogue: 0,0:06:47.20,0:06:49.53,Default,,0,0,0,,Mikey onu bulmamızı istemiyor.
+Dialogue: 0,0:06:49.53,0:06:50.83,Default,,0,0,0,,Ne?
+Dialogue: 0,0:06:50.83,0:06:52.91,Default,,0,0,0,,O ne demek şimdi?
+Dialogue: 0,0:06:54.50,0:06:55.92,Default,,0,0,0,,Takemitchy!
+Dialogue: 0,0:07:02.20,0:07:04.01,Default,,0,0,0,,Hey! Hey!
+Dialogue: 0,0:07:04.92,0:07:06.63,Default,,0,0,0,,Takemitchy!
+Dialogue: 0,0:07:06.64,0:07:08.93,Default,,0,0,0,,Nereye daldın gittin öyle?
+Dialogue: 0,0:07:08.93,0:07:10.35,Default,,0,0,0,,Hazırlık bitmiş.
+Dialogue: 0,0:07:10.35,0:07:12.10,Default,,0,0,0,,-Ha?\N-Ee, Yuzuha?
+Dialogue: 0,0:07:12.10,0:07:13.93,Default,,0,0,0,,Uzman bir stilist değilim sonuçta...
+Dialogue: 0,0:07:13.93,0:07:16.44,Default,,0,0,0,,O yüzden ne kadar \Nbecerebildim bilmiyorum ama...
+Dialogue: 0,0:07:20.44,0:07:21.69,Default,,0,0,0,,Nasıl olmuş?
+Dialogue: 0,0:07:24.90,0:07:26.53,Default,,0,0,0,,Çok güzelsin, Hina!
+Dialogue: 0,0:07:26.53,0:07:28.99,Default,,0,0,0,,10 yıl geçti ve daha hâlâ \Nkonuşabildiğin tek kız o mu?
+Dialogue: 0,0:07:28.99,0:07:30.87,Default,,0,0,0,,Bir de saçı falan hazır hâlini düşünün.
+Dialogue: 0,0:07:30.87,0:07:34.33,Default,,0,0,0,,Harbi, Takemitchy için fazla güzel oldu.
+Dialogue: 0,0:07:37.29,0:07:40.54,Default,,0,0,0,,Hey, Takemichi, n'oldu? İyi misin?
+Dialogue: 0,0:07:41.21,0:07:42.21,Default,,0,0,0,,Yok bir şey.
+Dialogue: 0,0:07:43.13,0:07:45.76,Default,,0,0,0,,Çok mutlu oldum da.
+Dialogue: 0,0:07:45.76,0:07:47.43,Default,,0,0,0,,Mutlu ol yeter.
+Dialogue: 0,0:07:50.01,0:07:51.14,Default,,0,0,0,,{\i1}O gülümseme.{\i0}
+Dialogue: 0,0:07:52.35,0:07:56.73,Default,,0,0,0,,Eğer bir gün kalpsizleşirsem\Nya da kendimi kaybedersem...
+Dialogue: 0,0:07:57.56,0:07:59.94,Default,,0,0,0,,...beni doğru yola sokmanı\N istiyorum, Takemitchy.
+Dialogue: 0,0:08:03.11,0:08:04.48,Default,,0,0,0,,Shinichiro gibi.
+Dialogue: 0,0:08:06.61,0:08:08.49,Default,,0,0,0,,{\i1}Her seferinde o gülümsemeyle.{\i0}
+Dialogue: 0,0:08:13.33,0:08:16.66,Default,,0,0,0,,Bu yüzden her şeyi sonlandırmak\N için harika bir zamandayız.
+Dialogue: 0,0:08:17.66,0:08:19.58,Default,,0,0,0,,{\i1}Ne kadar zorlansak da...{\i0}
+Dialogue: 0,0:08:22.00,0:08:24.30,Default,,0,0,0,,{\i1}Gelecekte sakın yanıma yaklaşma.
+Dialogue: 0,0:08:25.71,0:08:27.80,Default,,0,0,0,,{\i1}Özür dilerim, Mikey.{\i0}
+Dialogue: 0,0:08:29.00,0:08:32.60,Default,,0,0,0,,{\i1}Sözümü tutamadım.{\i0}
+Dialogue: 0,0:08:42.94,0:08:44.98,Default,,0,0,0,,Taşşak geçme lan!
+Dialogue: 0,0:08:44.98,0:08:48.94,Default,,0,0,0,,Bonten! Bonten! Bi' defol git lan!
+Dialogue: 0,0:08:48.95,0:08:50.11,Default,,0,0,0,,Anladın mı?
+Dialogue: 0,0:08:50.11,0:08:52.87,Default,,0,0,0,,Bir daha benim mekânıma\N adım atmıyorsun, şerefsiz.
+Dialogue: 0,0:08:55.29,0:08:59.20,Default,,0,0,0,,Bonten'in dikkatini çekmek \Nistemiyorum. Geri zekâlı.
+Dialogue: 0,0:08:59.21,0:09:02.13,Default,,0,0,0,,{\i1}Hay lanet, yine mi olmadı?{\i0}
+Dialogue: 0,0:09:03.92,0:09:06.46,Default,,0,0,0,,Takemitchy, yeter artık.
+Dialogue: 0,0:09:06.46,0:09:09.59,Default,,0,0,0,,-Ama--\N-Ne diye bu kadar acele ediyorsun?
+Dialogue: 0,0:09:09.59,0:09:11.13,Default,,0,0,0,,Dört noktaya da uğradım.
+Dialogue: 0,0:09:11.13,0:09:15.31,Default,,0,0,0,,Anlattığın tüm saklanma yerlerini\N kontrol ettim ama hiçbir şey yok.
+Dialogue: 0,0:09:15.89,0:09:18.93,Default,,0,0,0,,Sadece Bonten'in adını anmam \Nbile dayak yememe yetiyordu.
+Dialogue: 0,0:09:18.93,0:09:22.19,Default,,0,0,0,,Fazla acelecisin. Biraz daha tedbirli-
+Dialogue: 0,0:09:22.19,0:09:25.02,Default,,0,0,0,,Tedbirli olacak vaktim yok!
+Dialogue: 0,0:09:25.02,0:09:29.74,Default,,0,0,0,,Takemitchy, böyle yapmaya \Ndevam edersen canından olacaksın.
+Dialogue: 0,0:09:31.74,0:09:35.12,Default,,0,0,0,,Kendini öldürtmene \Nyardım etmeyeceğim, anladın mı?
+Dialogue: 0,0:09:36.24,0:09:38.91,Default,,0,0,0,,-Bitti artık.\N-Bekle az, Kazutora!
+Dialogue: 0,0:09:38.91,0:09:40.37,Default,,0,0,0,,Olmaz.
+Dialogue: 0,0:09:40.37,0:09:43.25,Default,,0,0,0,,Üç gün sonra evleneceğini unuttun mu?
+Dialogue: 0,0:09:43.25,0:09:45.17,Default,,0,0,0,,Ya bir şey olursa?
+Dialogue: 0,0:09:45.88,0:09:48.38,Default,,0,0,0,,Başına bir şey gelse \Nbizimkilerin yüzüne nasıl bakarım?
+Dialogue: 0,0:09:49.63,0:09:50.88,Default,,0,0,0,,Biraz yerinde dur.
+Dialogue: 0,0:09:54.47,0:09:55.80,Default,,0,0,0,,{\i1}Ulan...{\i0}
+Dialogue: 0,0:10:04.31,0:10:06.77,Default,,0,0,0,,UDAGAWA BOWLING
+Dialogue: 0,0:10:06.77,0:10:09.15,Default,,0,0,0,,{\i1}Önce Kazutora'nın listesini bitirmeliyim.{\i0}
+Dialogue: 0,0:10:10.40,0:10:11.90,Default,,0,0,0,,{\i1}Burası son.{\i0}
+Dialogue: 0,0:10:19.37,0:10:24.12,Default,,0,0,0,,{\i1}Eh, böyle bir yerde \NBonten'den iz kalacak değildi ya.{\i0}
+Dialogue: 0,0:10:31.76,0:10:33.01,Default,,0,0,0,,{\i1}Şimdi ne yapacağım?{\i0}
+Dialogue: 0,0:10:34.34,0:10:36.51,Default,,0,0,0,,{\i1}Artık Mikey'nin peşini bırak.{\i0}
+Dialogue: 0,0:10:38.47,0:10:42.52,Default,,0,0,0,,Manjiro Sano...\NArtık senin bildiğin kişi değil.
+Dialogue: 0,0:10:43.18,0:10:44.52,Default,,0,0,0,,{\i1}Mikey-kun...{\i0}
+Dialogue: 0,0:10:45.02,0:10:47.56,Default,,0,0,0,,{\i1}Bir daha onu göremeyecek miyim?{\i0}
+Dialogue: 0,0:10:48.06,0:10:51.44,Default,,0,0,0,,Bir daha seninle görüşemeyeceğiz.
+Dialogue: 0,0:10:52.65,0:10:54.24,Default,,0,0,0,,{\i1}Bunu kabullenemem.{\i0}
+Dialogue: 0,0:10:54.86,0:10:56.41,Default,,0,0,0,,{\i1}Fazla üzücü.{\i0}
+Dialogue: 0,0:10:59.45,0:11:01.41,Default,,0,0,0,,Kılını kıpırdatırsan kafanı patlatırım.
+Dialogue: 0,0:11:06.58,0:11:09.84,Default,,0,0,0,,Kokuyo'n be yavşak.
+Dialogue: 0,0:11:10.50,0:11:13.30,Default,,0,0,0,,Seni görmeden kokunu aldım.
+Dialogue: 0,0:11:13.30,0:11:14.88,Default,,0,0,0,,Seni lağım faresi.
+Dialogue: 0,0:11:15.76,0:11:17.55,Default,,0,0,0,,{\i1}Bekle, onu tanıyor muyum?{\i0}
+Dialogue: 0,0:11:20.22,0:11:21.35,Default,,0,0,0,,Daha önce karşılaştık mı?
+Dialogue: 0,0:11:22.06,0:11:23.22,Default,,0,0,0,,Sen kimsin?
+Dialogue: 0,0:11:23.22,0:11:25.31,Default,,0,0,0,,Şşş!
+Dialogue: 0,0:11:54.76,0:11:56.01,Default,,0,0,0,,İyi dinle.
+Dialogue: 0,0:11:56.51,0:11:59.18,Default,,0,0,0,,Patronun sana söyleyecekleri var.
+Dialogue: 0,0:12:10.15,0:12:11.77,Default,,0,0,0,,Geleceği nasıl buldun?
+Dialogue: 0,0:12:16.49,0:12:17.49,Default,,0,0,0,,Off.
+Dialogue: 0,0:12:18.11,0:12:19.49,Default,,0,0,0,,Dışarı çıktı herhalde.
+Dialogue: 0,0:12:25.58,0:12:26.79,Default,,0,0,0,,Iyy, iğrenç!
+Dialogue: 0,0:12:27.41,0:12:30.29,Default,,0,0,0,,Pislik! Seni beş dakikalığına \Nyalnız bırakıyorum ve sen...
+Dialogue: 0,0:12:34.25,0:12:35.80,Default,,0,0,0,,Neyse.
+Dialogue: 0,0:12:35.80,0:12:38.26,Default,,0,0,0,,Madem öyle, çöpü de çıkarayım.
+Dialogue: 0,0:12:38.26,0:12:40.26,Default,,0,0,0,,Tüh, kolyem.
+Dialogue: 0,0:12:43.05,0:12:45.31,Default,,0,0,0,,İçime kötü bir his doğdu.
+Dialogue: 0,0:12:51.81,0:12:53.40,Default,,0,0,0,,Geleceği nasıl buldun?
+Dialogue: 0,0:12:55.19,0:12:56.61,Default,,0,0,0,,Mikey, sen misin?
+Dialogue: 0,0:12:58.86,0:13:01.82,Default,,0,0,0,,Kendinle gurur mu duyuyorsun?\NBurada ne işin var?
+Dialogue: 0,0:13:10.50,0:13:13.21,Default,,0,0,0,,Bunu sana vermek istedim.
+Dialogue: 0,0:13:16.84,0:13:18.67,Default,,0,0,0,,Hina'yla benim düğün davetiyemiz.
+Dialogue: 0,0:13:23.09,0:13:25.10,Default,,0,0,0,,Orada olmanı gerçekten çok isterim.
+Dialogue: 0,0:13:28.85,0:13:31.85,Default,,0,0,0,,Herkesin durumu gayet iyi.
+Dialogue: 0,0:13:32.52,0:13:35.02,Default,,0,0,0,,Tıpkı söz verdiğin gibi, hatırlıyor\N musun? On iki yıl önce?
+Dialogue: 0,0:13:36.82,0:13:39.69,Default,,0,0,0,,Hepsi... Şey, hepsi mutlu görünüyor.
+Dialogue: 0,0:13:40.86,0:13:43.66,Default,,0,0,0,,Bir tek sen mutlu görünmüyorsun.
+Dialogue: 0,0:13:43.66,0:13:46.08,Default,,0,0,0,,Ağzından çıkanı kulağın duysun.
+Dialogue: 0,0:13:47.62,0:13:49.66,Default,,0,0,0,,Sanzu, bizi yalnız bırak.
+Dialogue: 0,0:13:51.25,0:13:53.00,Default,,0,0,0,,Onunla yalnız konuşmak istiyorum.
+Dialogue: 0,0:13:53.54,0:13:54.54,Default,,0,0,0,,Peki.
+Dialogue: 0,0:13:55.79,0:13:57.92,Default,,0,0,0,,Bana ihtiyacın olursa aşağıda olacağım, patron.
+Dialogue: 0,0:14:12.77,0:14:17.44,Default,,0,0,0,,Mikey, şu "Karanlık Dürtü" meselesi ne?
+Dialogue: 0,0:14:18.73,0:14:22.57,Default,,0,0,0,,Hayatının neden bu kadar kötüye \Ngittiğini hep şey sanıyordum...
+Dialogue: 0,0:14:22.57,0:14:26.99,Default,,0,0,0,,...Kisaki'yi, Shinichiro'yu \Nve Emma'yı kaybettiğin içindi.
+Dialogue: 0,0:14:27.70,0:14:30.04,Default,,0,0,0,,Bütün bunlara dayanamayıp \Naklını kaçırdığını düşünmüştüm.
+Dialogue: 0,0:14:30.87,0:14:32.50,Default,,0,0,0,,Belli ki yanılmışım.
+Dialogue: 0,0:14:34.96,0:14:36.42,Default,,0,0,0,,Hiçbir şey anlamıyorum ben bu işten.
+Dialogue: 0,0:14:37.46,0:14:38.54,Default,,0,0,0,,Şu kaset mesela...
+Dialogue: 0,0:14:39.46,0:14:42.22,Default,,0,0,0,,Birdenbire bu dürtülerden bahsetmen.
+Dialogue: 0,0:14:43.88,0:14:45.93,Default,,0,0,0,,Bu arada, artık geri dönemem.
+Dialogue: 0,0:14:46.64,0:14:48.10,Default,,0,0,0,,İstesem bile.
+Dialogue: 0,0:14:49.35,0:14:52.72,Default,,0,0,0,,Bunun sebebinin Hina'yı kurtarmaya çalışmamız olduğunu sanıyorduk.
+Dialogue: 0,0:14:52.73,0:14:54.19,Default,,0,0,0,,Ama artık bunu başardığımıza göre...
+Dialogue: 0,0:14:56.19,0:14:57.36,Default,,0,0,0,,Senin sayende.
+Dialogue: 0,0:14:58.23,0:15:00.86,Default,,0,0,0,,Şimdiki zamanın bu hâli tamamen farklı.
+Dialogue: 0,0:15:00.86,0:15:03.61,Default,,0,0,0,,O yüzden bunda senin de \Nparmağın olduğuna eminim.
+Dialogue: 0,0:15:06.20,0:15:08.53,Default,,0,0,0,,Bunca yıl onları güvende tutan sendin.
+Dialogue: 0,0:15:12.37,0:15:13.87,Default,,0,0,0,,Artık sıra bende.
+Dialogue: 0,0:15:14.79,0:15:16.33,Default,,0,0,0,,Şimdi de seni kurtarma sırası bende--
+Dialogue: 0,0:15:17.04,0:15:18.29,Default,,0,0,0,,Ha?
+Dialogue: 0,0:16:08.34,0:16:10.05,Default,,0,0,0,,İşte, bitti.
+Dialogue: 0,0:16:12.05,0:16:14.43,Default,,0,0,0,,Acaba Takemichi ne yapıyordur?
+Dialogue: 0,0:16:14.93,0:16:16.23,Default,,0,0,0,,Geç oldu.
+Dialogue: 0,0:16:45.42,0:16:47.09,Default,,0,0,0,,Bakma demiştim sana.
+Dialogue: 0,0:16:53.01,0:16:54.89,Default,,0,0,0,,Sonunun böyle olacağını biliyordum.
+Dialogue: 0,0:17:00.44,0:17:02.69,Default,,0,0,0,,Yolculuğun burada bitiyor, Takemitchy.
+Dialogue: 0,0:17:06.11,0:17:07.65,Default,,0,0,0,,Seni...
+Dialogue: 0,0:17:10.61,0:17:12.53,Default,,0,0,0,,Seni kurtaracağım.
+Dialogue: 0,0:17:15.12,0:17:18.62,Default,,0,0,0,,Ne pahasına olursa olsun seni kurtaracağım.
+Dialogue: 0,0:17:19.54,0:17:21.96,Default,,0,0,0,,Senin için... Mikey.
+Dialogue: 0,0:17:23.00,0:17:25.21,Default,,0,0,0,,Senin için her şeyi yaparım.
+Dialogue: 0,0:17:26.80,0:17:29.26,Default,,0,0,0,,Ne kadar uzun sürerse sürsün...
+Dialogue: 0,0:17:42.10,0:17:44.44,Default,,0,0,0,,Bu işi şimdi, burada bitireceğim.
+Dialogue: 0,0:18:00.54,0:18:02.62,Default,,0,0,0,,Hassiktir, bu hiç güvenli görünmüyor.
+Dialogue: 0,0:18:02.62,0:18:04.83,Default,,0,0,0,,-Hay aksi!\N-Atlamayacak, değil mi?
+Dialogue: 0,0:18:04.83,0:18:06.59,Default,,0,0,0,,-Biri polisi arasın! Atlayacak!\N-Ne?
+Dialogue: 0,0:18:06.59,0:18:07.67,Default,,0,0,0,,-Çabuk ol!\N-Ha?
+Dialogue: 0,0:18:07.67,0:18:10.34,Default,,0,0,0,,-Nereye gitti?\N-Yok artık! Polisi arıyorum.
+Dialogue: 0,0:18:11.55,0:18:12.93,Default,,0,0,0,,Mikey?
+Dialogue: 0,0:18:20.73,0:18:22.39,Default,,0,0,0,,{\i1}Ee, Manjiro?{\i0}
+Dialogue: 0,0:18:22.39,0:18:24.06,Default,,0,0,0,,{\i1}Yukarıdan manzara nasıl?{\i0}
+Dialogue: 0,0:18:24.65,0:18:25.86,Default,,0,0,0,,{\i1}Güzel hissettiriyor, değil mi?{\i0}
+Dialogue: 0,0:18:26.52,0:18:28.61,Default,,0,0,0,,{\i1}Herkesi kolladığın için eyvallah, Mikey.{\i0}
+Dialogue: 0,0:18:29.32,0:18:31.11,Default,,0,0,0,,Sana inancım tamdı zaten, reisim.
+Dialogue: 0,0:18:32.61,0:18:34.86,Default,,0,0,0,,{\an8\i1}Mikey! Mikey!{\i0}
+Dialogue: 0,0:18:34.86,0:18:38.24,Default,,0,0,0,,BİRİNCİ NESİL LİDERİ\NTOKYO MANJI ÇETESİ
+Dialogue: 0,0:18:42.71,0:18:44.71,Default,,0,0,0,,Hadi yapalım şu işi millet!
+Dialogue: 0,0:18:44.71,0:18:46.08,Default,,0,0,0,,Dur, Mikey!
+Dialogue: 0,0:18:57.60,0:19:00.43,Default,,0,0,0,,Delirdin mi lan?
+Dialogue: 0,0:19:00.43,0:19:02.31,Default,,0,0,0,,Ölmene izin vermeyeceğim!
+Dialogue: 0,0:19:12.57,0:19:16.49,Default,,0,0,0,,Hadi ama! Elimi tutman lazım! Çabuk!
+Dialogue: 0,0:19:16.49,0:19:17.49,Default,,0,0,0,,Farkındasın, değil mi?
+Dialogue: 0,0:19:19.20,0:19:20.99,Default,,0,0,0,,Benim yüzümden öleceksin.
+Dialogue: 0,0:19:21.95,0:19:23.04,Default,,0,0,0,,Yine de...
+Dialogue: 0,0:19:23.04,0:19:24.79,Default,,0,0,0,,Mikey.
+Dialogue: 0,0:19:26.12,0:19:29.71,Default,,0,0,0,,Bırak şimdi bunu... \NHiç zamanımız yok.
+Dialogue: 0,0:19:29.71,0:19:32.51,Default,,0,0,0,,Hadi be adam, bayılacağım şimdi.
+Dialogue: 0,0:19:33.76,0:19:35.47,Default,,0,0,0,,Keşke bıraksaydın.
+Dialogue: 0,0:19:36.13,0:19:37.64,Default,,0,0,0,,Bırak öleyim işte.
+Dialogue: 0,0:19:38.84,0:19:40.64,Default,,0,0,0,,Bitsin bu çile artık.
+Dialogue: 0,0:19:40.64,0:19:41.64,Default,,0,0,0,,Aynen, ondan.
+Dialogue: 0,0:19:42.35,0:19:45.14,Default,,0,0,0,,Yedim ben de bunu.
+Dialogue: 0,0:19:46.85,0:19:49.90,Default,,0,0,0,,Mikey, yalvarırım çabuk ol.
+Dialogue: 0,0:19:50.56,0:19:52.11,Default,,0,0,0,,Hadi ama!
+Dialogue: 0,0:19:53.15,0:19:54.36,Default,,0,0,0,,Yemin olsun ki...
+Dialogue: 0,0:19:56.11,0:19:57.11,Default,,0,0,0,,Seni kurtaracağım.
+Dialogue: 0,0:19:58.32,0:19:59.53,Default,,0,0,0,,Bundan emin olabilirsin.
+Dialogue: 0,0:20:01.03,0:20:04.12,Default,,0,0,0,,Nasıl yapacağımı bilmiyorum \Nhenüz ama yapacağım.
+Dialogue: 0,0:20:05.33,0:20:06.91,Default,,0,0,0,,Senin için geri döneceğim.
+Dialogue: 0,0:20:08.50,0:20:10.71,Default,,0,0,0,,Ne olursa olsun yine sana döneceğim.
+Dialogue: 0,0:20:13.96,0:20:16.51,Default,,0,0,0,,Farkına bile varmadan vurmuşum seni...
+Dialogue: 0,0:20:19.39,0:20:20.80,Default,,0,0,0,,Yüzünü görmek istemiyordum bile.
+Dialogue: 0,0:20:21.80,0:20:23.72,Default,,0,0,0,,İşlerin böyle bitmesini hiç istemedim.
+Dialogue: 0,0:20:27.60,0:20:28.85,Default,,0,0,0,,Takemitchy...
+Dialogue: 0,0:20:32.86,0:20:33.98,Default,,0,0,0,,Bırak beni.
+Dialogue: 0,0:20:34.61,0:20:35.61,Default,,0,0,0,,Lütfen.
+Dialogue: 0,0:20:36.24,0:20:37.99,Default,,0,0,0,,Bırak da huzur içinde öleyim...
+Dialogue: 0,0:20:40.28,0:20:44.20,Default,,0,0,0,,Kapa çeneni ulaaaan!
+Dialogue: 0,0:20:44.20,0:20:46.25,Default,,0,0,0,,Neden sürekli böylesin?
+Dialogue: 0,0:20:47.04,0:20:49.54,Default,,0,0,0,,Bütün yükü tek başına \Nsırtlamak zorunda değilsin!
+Dialogue: 0,0:20:50.33,0:20:53.71,Default,,0,0,0,,Bari bir kerecik olsun, Mikey!
+Dialogue: 0,0:20:54.88,0:20:59.13,Default,,0,0,0,,Sadece "Kurtar beni!" diye bağır, yeter!
+Dialogue: 0,0:21:01.64,0:21:05.39,Default,,0,0,0,,Kurtaracağım! Ne olursa\N olsun kurtaracağım seni!
+Dialogue: 0,0:21:06.81,0:21:08.02,Default,,0,0,0,,Anlıyor musun beni?
+Dialogue: 0,0:21:19.11,0:21:21.03,Default,,0,0,0,,Bana yardım et, Takemitchy.
+Dialogue: 0,0:21:22.24,0:21:23.49,Default,,0,0,0,,Ölmek istemiyorum.
+Dialogue: 0,0:21:38.59,0:21:39.67,Default,,0,0,0,,Ha?
+Dialogue: 0,0:21:41.01,0:21:42.55,Default,,0,0,0,,20. HEISEI YILI - HAZİRAN - 2008
+Dialogue: 0,0:21:42.55,0:21:43.97,Default,,0,0,0,,{\i1}2008 mi?{\i0}
+Dialogue: 0,0:21:45.30,0:21:46.60,Default,,0,0,0,,{\i1}Neler oluyor lan?{\i0}
+Dialogue: 0,0:21:49.35,0:21:51.85,Default,,0,0,0,,{\i1}Yani tekrar zamanda sıçradım.{\i0}
+Dialogue: 0,0:21:53.85,0:21:56.65,Default,,0,0,0,,{\i1}Ama 12 yıl geçmişe gitmedim…{\i0}
+Dialogue: 0,0:21:56.65,0:21:58.40,Default,,0,0,0,,HEISEI 20. YIL\NÖĞRENCİ DEFTERİ
+Dialogue: 0,0:21:58.40,0:22:00.07,Default,,0,0,0,,{\i1}Tam 10 yıl öncesi bu!{\i0}
+Dialogue: 0,0:22:02.15,0:22:04.99,Default,,0,0,0,,-Hadi canım, harbi görmedin mi onu?\N-Yok kanka, valla görmedim.
+Dialogue: 0,0:22:04.99,0:22:08.12,Default,,0,0,0,,Hassiktir! Liseye geri mi döndüm?
+Dialogue: 0,0:23:41.00,0:23:43.00,Default,,0,0,0,,{\an8}#4 KURABİYE EVİ YENİDEN İNŞA ETMEK
+Dialogue: 0,0:23:43.01,0:23:45.92,Default,,0,0,0,,Yahu, eskiden zencefilli kurabiyeler\Nçok daha ucuzdu.
+Dialogue: 0,0:23:45.93,0:23:48.93,Default,,0,0,0,,Köpek kulübesi yapacak kadarını bile\Nalamıyoruz artık.
+Dialogue: 0,0:23:48.93,0:23:52.43,Default,,0,0,0,,Lanet olsun! O kudurmuş canavar\Nevimizi yerle bir etmeseydi...
+Dialogue: 0,0:23:52.93,0:23:54.10,Default,,0,0,0,,O da ne?
+Dialogue: 0,0:23:54.93,0:23:57.23,Default,,0,0,0,,{\an8}Hey, şu işi yıl bitmeden\N halledebilecek misin acaba?
+Dialogue: 0,0:23:57.23,0:23:58.31,Default,,0,0,0,,{\an8}YUVARLA YUVARLA YUVARLA...
+Dialogue: 0,0:23:58.31,0:24:01.27,Default,,0,0,0,,{\an8}-Elimden geldiğince hızlı yapıyorum zaten.\N-Anlaşılan cevap hayır.
+Dialogue: 0,0:24:01.27,0:24:05.03,Default,,0,0,0,,Neyse, keyfine bak. Sanki\Nacelemiz varmış gibi, ezik.
+Dialogue: 0,0:24:05.03,0:24:06.95,Default,,0,0,0,,-Kanka, şuna baksana.\N-Ha?
+Dialogue: 0,0:24:06.95,0:24:09.20,Default,,0,0,0,,Bu çocuklar da nereden çıktı?\NAtıştırmalık mı istiyorsunuz?
+Dialogue: 0,0:24:09.20,0:24:10.37,Default,,0,0,0,,Parasını vereceksiniz, değil mi?
+Dialogue: 0,0:24:10.37,0:24:14.08,Default,,0,0,0,,Ne? Onlara nasıl satmayı teklif edersin?\NBu evi kendimiz için yapıyoruz!
+Dialogue: 0,0:24:14.08,0:24:16.20,Default,,0,0,0,,Doğru ama kurabiyelerle\Nonları içeri çekersek...
+Dialogue: 0,0:24:16.21,0:24:19.04,Default,,0,0,0,,Hem ceplerini boşaltırız\Nhem de kanlarını emeriz.
+Dialogue: 0,0:24:19.79,0:24:20.88,Default,,0,0,0,,Hee, doğru ya.
+Dialogue: 0,0:24:20.88,0:24:23.29,Default,,0,0,0,,Sabredin biraz! Kurabiyeler fırında.
+Dialogue: 0,0:24:23.30,0:24:25.59,Default,,0,0,0,,{\an8}Bu gece sabaha kadar ziyafet var!\NYaşasın ziyafet!
+Dialogue: 0,0:24:25.59,0:24:26.92,Default,,0,0,0,,{\an8\fnArial\b1\c&HFFFFFF&\3c&H3361E6&\bord9\shad0\pos(1610,824)}DEVAM EDECEK
