@@ -1,0 +1,268 @@
+[Script Info]
+Title: The-Lumina-Company - Tokyo Revengers: Santen Sensou-hen
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lumina,80,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\an4\fnLT Comical\fscx95\fscy95\bord2.2\shad2.2\blur0.6\3c&H000000&\pos(40,520)\c&HFF901E&}Çeviri: {\c&HFFFFFF&}KeySkop, Ata, Xenrok, unigfb, ka4qnn, shxd.{\fscy34.5}\N{\fscy95\c&HFF901E&}Redaksiyon: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Encode: {\c&HFFFFFF&}ka4qnn{\fscy34.5}\N{\fscy95\c&HFF901E&}Upload: {\c&HFFFFFF&}shxd.{\fscy34.5}\N{\fscx76.5\fscy76.5\c&HAAAAAA&\b0}discord.gg/luminaceviri
+Dialogue: 9,0:00:05.46,0:00:08.05,Default,,0,0,0,,HAYIR! DAVETLERE HAYIR\NDİYECEK CESARETİN OLSUN
+Dialogue: 9,0:00:08.13,0:00:10.63,Default,,0,0,0,,YAŞI KÜÇÜKLERİN İÇKİ VE SİGARA\NİÇMESİNİ YASAKLAYALIM
+Dialogue: 9,0:00:10.71,0:00:11.72,Default,,0,0,0,,ŞİDDET SUÇTUR
+Dialogue: 9,0:00:29.57,0:00:31.57,Default,,0,0,0,,EMNİYET MÜDÜRLÜĞÜ
+Dialogue: 9,0:00:49.55,0:00:53.72,Default,,0,0,0,,Bu akşam saat 7'de.\NO lunaparkta.
+Dialogue: 9,0:00:55.13,0:00:58.35,Default,,0,0,0,,Bizim için iyi oldu, bomboş olur.
+Dialogue: 9,0:00:59.68,0:01:03.43,Default,,0,0,0,,Anladığım kadarıyla\Nsenin devrin çoktan kapanmış.
+Dialogue: 9,0:01:04.23,0:01:05.52,Default,,0,0,0,,Eski günlerde.
+Dialogue: 9,0:01:06.19,0:01:08.81,Default,,0,0,0,,O hayalin peşinden bir kez daha koşmak.
+Dialogue: 9,0:01:09.98,0:01:12.40,Default,,0,0,0,,Brahman'ın Üç Titan'dan biri\Nolmasının tek sebebi...
+Dialogue: 9,0:01:12.48,0:01:15.95,Default,,0,0,0,,senin Birinci Nesil Kara Ejderler'den olman.
+Dialogue: 9,0:01:16.03,0:01:19.07,Default,,0,0,0,,Bu ayrıcalık olmadan, hiçbir şey.
+Dialogue: 9,0:01:19.16,0:01:20.16,Default,,0,0,0,,Cidden mi?
+Dialogue: 9,0:01:20.24,0:01:21.24,Default,,0,0,0,,ANINDA YOK OLUŞ
+Dialogue: 9,0:01:21.33,0:01:25.04,Default,,0,0,0,,Senju Kawaragi'nin Mikey'yi ya da beni\Nyeneceğine gerçekten inanıyor olamazsın.
+Dialogue: 9,0:01:25.12,0:01:29.63,Default,,0,0,0,,Şerefsiz. Seni şimdiden\Ngebertmeyi bile düşünmüştüm.
+Dialogue: 9,0:01:33.21,0:01:35.34,Default,,0,0,0,,Yavaş ol, dostum.
+Dialogue: 9,0:01:36.13,0:01:38.76,Default,,0,0,0,,Seni herkesin gözü önünde\Nöldürmeyi tercih ederdim.
+Dialogue: 9,0:01:44.64,0:01:46.52,Default,,0,0,0,,{\i1}Savaş Tanrısı!
+Dialogue: 9,0:01:46.60,0:01:48.40,Default,,0,0,0,,{\i1}Savaş Tanrısı!
+Dialogue: 9,0:01:48.48,0:01:49.86,Default,,0,0,0,,Savaş Tanrısı!
+Dialogue: 9,0:01:49.94,0:01:51.61,Default,,0,0,0,,Savaş Tanrısı!
+Dialogue: 9,0:01:51.69,0:01:53.40,Default,,0,0,0,,{\i1}Savaş Tanrısı!
+Dialogue: 9,0:02:04.66,0:02:08.08,Default,,0,0,0,,Kimse benim yoluma çıkamaz.
+Dialogue: 9,0:02:09.25,0:02:10.50,Default,,0,0,0,,{\i1}Hiç kimse.
+Dialogue: 0,0:03:53.15,0:03:54.52,Default,,0,0,0,,{\an8}Hanagaki?
+Dialogue: 0,0:03:55.36,0:03:56.36,Default,,0,0,0,,{\an8}-Hah?\N-Hımm?
+Dialogue: 0,0:03:51.05,0:03:56.14,Default,,0,0,0,,{\an3\fnTimes New Roman\fs90\b0\c&H0A0BA6&\3c&H11142A&\4c&HFFFFFF&\bord1.2\blur2.5\pos(1816.667,946)}#59 Çete Üyesi
+Dialogue: 9,0:04:13.25,0:04:14.25,Default,,0,0,0,,Senju...
+Dialogue: 9,0:04:16.71,0:04:18.63,Default,,0,0,0,,hiçbiri senin hatan değil, tamam mı?
+Dialogue: 9,0:04:21.21,0:04:24.84,Default,,0,0,0,,Sadece söylüyorum, ama ben \Nde mahvolmuş durumdayım.
+Dialogue: 9,0:04:26.01,0:04:27.85,Default,,0,0,0,,Bunu duymak seni mutlu eder mi, bilmem.
+Dialogue: 9,0:04:30.56,0:04:32.31,Default,,0,0,0,,Yanılıyorsun.
+Dialogue: 9,0:04:33.02,0:04:36.77,Default,,0,0,0,,Geri alamayacağım\Nbaşka bir şey daha yaptım.
+Dialogue: 9,0:04:36.86,0:04:38.82,Default,,0,0,0,,Bu neden hep olup duruyor ki?
+Dialogue: 9,0:04:38.90,0:04:40.78,Default,,0,0,0,,{\i1}Başka bir şey mi?
+Dialogue: 9,0:04:40.86,0:04:42.07,Default,,0,0,0,,Bu benim hatam.
+Dialogue: 9,0:04:44.49,0:04:47.87,Default,,0,0,0,,Senin suçun değil, tamam mı?\NSenju, bana bak.
+Dialogue: 9,0:05:03.38,0:05:07.43,Default,,0,0,0,,{\i1}Bu geceki başlıca rakiplerimiz{\i0}\N{\i1}South Terano ve Manjiro Sano.
+Dialogue: 9,0:05:08.22,0:05:11.93,Default,,0,0,0,,En azından sonunda istediğin \Nolacak. Bu da bir şey.
+Dialogue: 9,0:05:13.14,0:05:17.27,Default,,0,0,0,,Brahman'ı etraftaki en güçlü\Nadamlara kafa tutmak için kurdun.
+Dialogue: 9,0:05:19.31,0:05:22.65,Default,,0,0,0,,Bence önce Rokuhara'ya odaklanalım.\NÖnce onları alt edelim.
+Dialogue: 9,0:05:22.73,0:05:24.49,Default,,0,0,0,,Sonra da Kanto Manji'yi ezeriz.
+Dialogue: 9,0:05:25.15,0:05:27.78,Default,,0,0,0,,Böylece Kanto'nun tamamını\Nele geçirebilirsin, Senju.
+Dialogue: 9,0:05:27.86,0:05:30.49,Default,,0,0,0,,Bana kalırsa o noktada\Nyapacak başka iş kalmıyor zaten.
+Dialogue: 9,0:05:31.83,0:05:35.87,Default,,0,0,0,,Tabii, bunun Draken'ın hatırasına \Nyakışıp yakışmayacağını bilemem.
+Dialogue: 9,0:05:38.83,0:05:43.17,Default,,0,0,0,,Bence öyle. Yeter ki\NMikey'yi geri getirmeyi başaralım.
+Dialogue: 9,0:05:43.88,0:05:45.92,Default,,0,0,0,,İyi dinle, Senju.
+Dialogue: 9,0:05:46.01,0:05:47.76,Default,,0,0,0,,Bu gece sınır tanımayacağız.
+Dialogue: 9,0:06:12.12,0:06:13.74,Default,,0,0,0,,ROKUHARA TANDAI
+Dialogue: 9,0:06:52.03,0:06:53.33,Default,,0,0,0,,{\i1}Crescendo.*
+Dialogue: 0,0:06:52.03,0:06:55.53,Default,,0,0,0,,{\an7\fscx75\fscy75\pos(30,52)}*: Müzikte sesin giderek yükseleceğini belirten terim.
+Dialogue: 9,0:07:17.89,0:07:19.31,Default,,0,0,0,,{\i1}Forte.*
+Dialogue: 0,0:07:17.89,0:07:21.89,Default,,0,0,0,,{\an7\fscx75\fscy75\pos(34,48)}*: Müzikte "güçlü, gür sesle" çalınacağını belirten terim.
+Dialogue: 9,0:07:25.11,0:07:27.48,Default,,0,0,0,,Ve fortissimo!*
+Dialogue: 0,0:07:25.11,0:07:29.11,Default,,0,0,0,,{\an7\fscx75\fscy75\pos(30,48)}*: Müzikte "çok güçlü, çok yüksek sesle" çalınacağını belirten terim.
+Dialogue: 9,0:07:50.51,0:07:52.97,Default,,0,0,0,,Forte, fortissimo!
+Dialogue: 0,0:07:53.97,0:07:57.97,Default,,0,0,0,,{\an8}ACIMASIZ VE GADDAR\NKİMSEYE HESAP VERMEZ
+Dialogue: 9,0:08:05.98,0:08:08.02,Default,,0,0,0,,Adamlarımızın hepsi toplandı mı?
+Dialogue: 9,0:08:08.11,0:08:09.11,Default,,0,0,0,,Evet.
+Dialogue: 9,0:08:16.41,0:08:18.28,Default,,0,0,0,,He?
+Dialogue: 9,0:08:20.33,0:08:21.83,Default,,0,0,0,,Hazır mıyız?
+Dialogue: 9,0:08:22.75,0:08:23.96,Default,,0,0,0,,Hazırız.
+Dialogue: 9,0:08:24.04,0:08:28.84,Default,,0,0,0,,Bu gece Rokuhara'nın işini Draken'ın\Nson nefesini verdiği yerde bitireceğiz.
+Dialogue: 9,0:08:29.75,0:08:30.76,Default,,0,0,0,,Hadi gidelim!
+Dialogue: 9,0:08:30.84,0:08:32.76,Default,,0,0,0,,TRINITY LAND
+Dialogue: 9,0:08:32.84,0:08:33.97,Default,,0,0,0,,BUGÜN KAPALI
+Dialogue: 9,0:08:42.35,0:08:46.44,Default,,0,0,0,,{\i1}Bu hiç doğru değil.{\i0}\N{\i1}Bu savaşa böyle başlamamalıyız.
+Dialogue: 9,0:08:47.27,0:08:52.11,Default,,0,0,0,,Brahman sonunda intikamını \Nalmaya geldi. Senju Kawaragi...
+Dialogue: 9,0:08:53.95,0:08:56.74,Default,,0,0,0,,Armageddon vakti geldi!
+Dialogue: 9,0:08:56.82,0:08:58.45,Default,,0,0,0,,Başlayalım!
+Dialogue: 9,0:08:58.53,0:08:59.95,Default,,0,0,0,,Hadi, göster marifetini.
+Dialogue: 9,0:09:02.20,0:09:03.96,Default,,0,0,0,,Bu iş burada, şimdi bitecek.
+Dialogue: 9,0:09:06.12,0:09:07.25,Default,,0,0,0,,Lütfen yapma!
+Dialogue: 9,0:09:09.34,0:09:10.63,Default,,0,0,0,,Ha?
+Dialogue: 9,0:09:12.92,0:09:16.01,Default,,0,0,0,,Sana yalvarıyorum.\NHâlâ bundan vazgeçebilirsin.
+Dialogue: 9,0:09:17.26,0:09:18.30,Default,,0,0,0,,Ha?
+Dialogue: 9,0:09:19.05,0:09:21.35,Default,,0,0,0,,Beni öldürmeye çalışan insanları affediyorum.
+Dialogue: 9,0:09:22.06,0:09:23.35,Default,,0,0,0,,Bunu yapmamıza gerek yok.
+Dialogue: 9,0:09:24.89,0:09:26.56,Default,,0,0,0,,Hanagaki, ne yapıyorsun?
+Dialogue: 9,0:09:26.64,0:09:28.56,Default,,0,0,0,,Ölen kişi Draken.
+Dialogue: 9,0:09:28.65,0:09:31.44,Default,,0,0,0,,Bu doğru, ama o kurşunu\Nbeni korumaya çalışırken yedi!
+Dialogue: 9,0:09:31.52,0:09:32.94,Default,,0,0,0,,Asıl hedef bendim!
+Dialogue: 9,0:09:33.74,0:09:36.74,Default,,0,0,0,,Ve diyorum ki, bunun için \Nonları affediyorum!
+Dialogue: 9,0:09:36.82,0:09:38.87,Default,,0,0,0,,Yine pislik herif.
+Dialogue: 9,0:09:38.95,0:09:41.24,Default,,0,0,0,,Sen kendini ne sanıyorsun be, çocuk?
+Dialogue: 9,0:09:41.33,0:09:44.33,Default,,0,0,0,,İplerin senin elinde\Nolduğunu mu sanıyorsun, ha?
+Dialogue: 9,0:09:48.37,0:09:53.84,Default,,0,0,0,,Üstelik Draken, Üç Titan Savaşı'nın\Nfitilini ateşleyen olmak hiç istememişti.
+Dialogue: 9,0:09:56.51,0:10:01.60,Default,,0,0,0,,Yani onun ölümünü, birbirimizi öldürmek için\Nbir bahane olarak kullanamayız!
+Dialogue: 9,0:10:11.77,0:10:14.15,Default,,0,0,0,,Draken ve ben, biz düşündük ki...
+Dialogue: 9,0:10:15.32,0:10:16.32,Default,,0,0,0,,Biz...
+Dialogue: 9,0:10:22.53,0:10:24.79,Default,,0,0,0,,{\i1}Şu motor... Olamaz...
+Dialogue: 9,0:10:39.63,0:10:41.05,Default,,0,0,0,,{\i1}Mikey...
+Dialogue: 9,0:10:58.99,0:11:00.03,Default,,0,0,0,,ÇAĞRI\NTAKEMICHI
+Dialogue: 9,0:11:00.11,0:11:02.07,Default,,0,0,0,,{\i1}Neredesin be? Aç telefonu.
+Dialogue: 9,0:11:06.45,0:11:07.50,Default,,0,0,0,,Hmm.
+Dialogue: 9,0:11:11.75,0:11:14.21,Default,,0,0,0,,{\i1}Mikey, yapma. Lütfen.
+Dialogue: 9,0:11:14.29,0:11:16.17,Default,,0,0,0,,{\i1}Lütfen bunu şu an yapma.
+Dialogue: 9,0:11:26.68,0:11:28.31,Default,,0,0,0,,Kanto Manji Çetesi.
+Dialogue: 9,0:11:29.35,0:11:31.85,Default,,0,0,0,,Hepsini öldürün!
+Dialogue: 9,0:11:34.98,0:11:37.98,Default,,0,0,0,,Dikkatlerini dağıt.\NRokuhara'nın adamlarını onlar alsın.
+Dialogue: 9,0:11:38.07,0:11:39.24,Default,,0,0,0,,Evet, efendim!
+Dialogue: 9,0:12:04.51,0:12:07.56,Default,,0,0,0,,Senju'yu alabiliriz!\NHanagaki'yi de aradan çıkaralım!
+Dialogue: 9,0:12:07.64,0:12:09.89,Default,,0,0,0,,Kafalarını alırsak işimiz tamam.
+Dialogue: 9,0:12:21.78,0:12:23.91,Default,,0,0,0,,Senju.
+Dialogue: 9,0:12:23.99,0:12:26.28,Default,,0,0,0,,Dün seni koruyacağımı söylemiştim, değil mi?
+Dialogue: 9,0:12:30.33,0:12:31.83,Default,,0,0,0,,Engel olmamaya çalış.
+Dialogue: 9,0:12:35.54,0:12:36.71,Default,,0,0,0,,Waka...
+Dialogue: 9,0:12:36.79,0:12:38.92,Default,,0,0,0,,Gücünü saklamalısın, Senju.
+Dialogue: 9,0:12:39.00,0:12:40.42,Default,,0,0,0,,Bu tiplerle uğraşma bile.
+Dialogue: 9,0:12:40.92,0:12:44.93,Default,,0,0,0,,Sen beni dert etme.\NHem zaten Hanagaki haklı.
+Dialogue: 9,0:12:45.43,0:12:48.18,Default,,0,0,0,,Bu gece burada uğruna\Ndövüşmeye değecek bir şey yok.
+Dialogue: 9,0:12:48.76,0:12:53.27,Default,,0,0,0,,Bu savaş... Senin gücünü\Nharcayacağın yer burası değil.
+Dialogue: 9,0:12:53.35,0:12:54.35,Default,,0,0,0,,Waka?
+Dialogue: 9,0:13:00.82,0:13:02.69,Default,,0,0,0,,Hanagaki,
+Dialogue: 9,0:13:02.78,0:13:05.99,Default,,0,0,0,,söylememe gerek yok ama\Npatron bizim gözbebeğimiz.
+Dialogue: 9,0:13:07.28,0:13:09.87,Default,,0,0,0,,O yüzden prensesimiz\Nsakın bir delilik yapmasın.
+Dialogue: 9,0:13:09.95,0:13:11.37,Default,,0,0,0,,Ş-Şey, baş üstüne!
+Dialogue: 9,0:13:23.51,0:13:25.17,Default,,0,0,0,,Artık bu işin dönüşü yok.
+Dialogue: 9,0:13:26.26,0:13:28.51,Default,,0,0,0,,Vivo!
+Dialogue: 0,0:13:26.26,0:13:28.51,Default,,0,0,0,,{\an7\fscx75\fscy75\pos(38,48)}*: Portekizcede "yaşıyorum", müzikte "canlı" demek.
+Dialogue: 9,0:13:29.14,0:13:32.93,Default,,0,0,0,,Tenjiku, Kanto Manji'yi\Nbir süre bizden uzak tutun.
+Dialogue: 9,0:13:33.02,0:13:35.77,Default,,0,0,0,,Önce Brahman'ı yerle bir edeceğiz!
+Dialogue: 9,0:13:35.85,0:13:37.56,Default,,0,0,0,,-Emrin olur!\N-Tamamdır!
+Dialogue: 9,0:14:04.36,0:14:06.84,Default,,0,0,0,,Kocaman adamsın, yumruğun bu mu lan?
+Dialogue: 9,0:14:17.52,0:14:21.15,Default,,0,0,0,,{\i1}Compassione*{\i0},\NBirinci Nesil Kara Ejderler!
+Dialogue: 0,0:14:17.52,0:14:21.15,Default,,0,0,0,,{\an7\fscx75\fscy75\pos(30,56)}*: İtalyanca müzik terimi. "Acıyarak, şefkatle" anlamına gelir.
+Dialogue: 9,0:14:22.73,0:14:24.73,Default,,0,0,0,,Çekil lan önümden!
+Dialogue: 9,0:14:24.82,0:14:26.49,Default,,0,0,0,,{\i1}Benim derdim Mikey ile.
+Dialogue: 9,0:14:28.07,0:14:29.61,Default,,0,0,0,,{\i1}Niye kazık gibi dikiliyor bu?
+Dialogue: 9,0:14:29.70,0:14:32.70,Default,,0,0,0,,Kakuchooo, ce-eee!
+Dialogue: 9,0:14:33.99,0:14:37.04,Default,,0,0,0,,Yumruk yumruğa dövüşmek\Nfazla abartılıyor bence.
+Dialogue: 9,0:14:37.12,0:14:40.04,Default,,0,0,0,,Adamın kafasına boruyu\Nindirdin mi olay tamamdır!
+Dialogue: 9,0:14:40.12,0:14:41.13,Default,,0,0,0,,Öyle mi dersin?
+Dialogue: 9,0:14:43.09,0:14:45.46,Default,,0,0,0,,Bak sen. Hakikaten kolaymış lan.
+Dialogue: 9,0:14:50.05,0:14:53.55,Default,,0,0,0,,Ne oldu lan, Toman?\NDövüşecek mecaliniz mi kalmadı?
+Dialogue: 9,0:14:55.10,0:14:57.81,Default,,0,0,0,,Hâlâ kılını kıpırdatmayacak mısın?\NEmin misin bak?
+Dialogue: 9,0:14:59.73,0:15:00.77,Default,,0,0,0,,Mikey?
+Dialogue: 9,0:15:02.61,0:15:05.82,Default,,0,0,0,,Patron, hadi ama!\NBu hiç mi koymuyor sana?
+Dialogue: 9,0:15:07.69,0:15:08.69,Default,,0,0,0,,Niye koysun?
+Dialogue: 9,0:15:15.41,0:15:18.12,Default,,0,0,0,,Bizim veletleri resmen\Nlime lime ediyorlar be.
+Dialogue: 9,0:15:19.91,0:15:23.79,Default,,0,0,0,,Kara Ejderler'in en güçlü ikilisini\Nhâlâ formda görmek güzel be.
+Dialogue: 9,0:15:23.88,0:15:26.17,Default,,0,0,0,,Bu iki herif insan değil lan.
+Dialogue: 9,0:15:26.25,0:15:29.09,Default,,0,0,0,,Böyle canavarlar dururken\Nniye başka tipler başa geçiyor?
+Dialogue: 9,0:15:30.05,0:15:33.34,Default,,0,0,0,,Wakasa Imaushi ve Keizo Arashi.
+Dialogue: 9,0:15:33.97,0:15:36.97,Default,,0,0,0,,Kara Ejderler daha ortada yokken,
+Dialogue: 9,0:15:37.06,0:15:39.39,Default,,0,0,0,,o ikisi tüm Kanto'yu aralarında paylaşmıştı.
+Dialogue: 9,0:15:39.48,0:15:40.48,Default,,0,0,0,,{\i1}Cidden mi?
+Dialogue: 9,0:15:40.56,0:15:43.27,Default,,0,0,0,,{\i1}Batı Kanto, Ragnarok'un elindeydi.
+Dialogue: 9,0:15:43.35,0:15:46.98,Default,,0,0,0,,{\i1}Tam 600 üyesiyle{\i0}\N{\i1}Japonya'nın en büyük çetesiydi.
+Dialogue: 9,0:15:47.07,0:15:49.99,Default,,0,0,0,,{\i1}Ve zirvede ise{\i0}\N{\i1}dev gibi bir adam duruyordu;
+Dialogue: 0,0:15:50.07,0:15:53.70,Default,,0,0,0,,{\an8\i1}girdiği her kavgadan{\i0}\N{\i1}başkalarının kanına bulanmış çıkan biri.
+Dialogue: 0,0:15:53.78,0:15:55.78,Default,,0,0,0,,{\an8\i1}Ona "Redcliff" derlerdi.
+Dialogue: 9,0:15:55.87,0:15:57.29,Default,,0,0,0,,{\i1}İşte o kişi Keizo'ydu.
+Dialogue: 0,0:15:57.37,0:16:00.50,Default,,0,0,0,,{\an8}RAGNAROK LİDERİ "REDCLIFF"\NGÖZÜ KARA AZİZ\NYENİLMEZ
+Dialogue: 9,0:16:00.58,0:16:02.75,Default,,0,0,0,,{\i1}Buna karşı durmak için ise
+Dialogue: 9,0:16:02.83,0:16:07.17,Default,,0,0,0,,{\i1}Doğu Kanto'nun 12 çetesi birleşerek{\i0}\N{\i1}Kodo Rengo'yu kurdu.
+Dialogue: 9,0:16:07.25,0:16:11.01,Default,,0,0,0,,{\i1}Başlarına geçip onlara liderlik eden{\i0}\N{\i1}adamdan herkes korkardı.
+Dialogue: 9,0:16:11.09,0:16:13.51,Default,,0,0,0,,{\i1}Ona "White Panther" derlerdi.
+Dialogue: 9,0:16:13.59,0:16:15.01,Default,,0,0,0,,{\i1}O da Wakasa'ydı.
+Dialogue: 0,0:16:15.09,0:16:16.10,Default,,0,0,0,,{\an8}KODO RENGO LİDERİ\N"WHITE PANTHER"
+Dialogue: 0,0:16:16.18,0:16:18.22,Default,,0,0,0,,{\an8\i1}Hiç haberim yoktu.{\i0}\N{\i1}İnanılmaz bir şey bu.
+Dialogue: 9,0:16:20.31,0:16:22.64,Default,,0,0,0,,{\i1}Sürekli birbirlerinin{\i0}\N{\i1}gırtlağına yapışıyorlardı;
+Dialogue: 9,0:16:22.73,0:16:25.86,Default,,0,0,0,,{\i1}ta ki bir gün adı sanı bilinmeyen{\i0}\N{\i1}biri onları birleştirene dek.
+Dialogue: 9,0:16:26.81,0:16:29.19,Default,,0,0,0,,{\i1}Adı Shinichiro Sano'ydu.
+Dialogue: 9,0:16:33.24,0:16:35.36,Default,,0,0,0,,İşte Kanto böyle birleşti.
+Dialogue: 9,0:16:36.78,0:16:38.49,Default,,0,0,0,,Takeomi'ye sor, o sana anlatır.
+Dialogue: 9,0:16:39.16,0:16:41.50,Default,,0,0,0,,Saf güç ve yetenek söz konusu olduğunda,
+Dialogue: 9,0:16:41.58,0:16:44.83,Default,,0,0,0,,Japonya'nın tartışmasız\Nen güçlü dövüşçüleri...
+Dialogue: 9,0:16:45.88,0:16:47.21,Default,,0,0,0,,o ikisiydi.
+Dialogue: 9,0:16:49.17,0:16:51.30,Default,,0,0,0,,Peki Mikey mevzusunu ne yapacağız?
+Dialogue: 9,0:16:51.38,0:16:53.80,Default,,0,0,0,,Ona da biraz enerji saklamamız gerekecek.
+Dialogue: 9,0:16:53.88,0:16:56.30,Default,,0,0,0,,Bu üçlü kapışma hesapta yoktu.
+Dialogue: 9,0:16:56.39,0:16:57.76,Default,,0,0,0,,Bana uyar.
+Dialogue: 9,0:16:57.85,0:16:59.47,Default,,0,0,0,,Gardını sakın düşürme.
+Dialogue: 9,0:16:59.56,0:17:01.35,Default,,0,0,0,,South, resmen ikinci bir Mikey gibi.
+Dialogue: 0,0:17:10.52,0:17:14.65,Default,,0,0,0,,{\an7\fscx75\fscy75\pos(38,48)}*: Portekizcede "yaşıyorum", müzikte "canlı" demek.
+Dialogue: 9,0:17:10.52,0:17:14.65,Default,,0,0,0,,Vivo!*
+Dialogue: 9,0:17:14.74,0:17:17.66,Default,,0,0,0,,Gelin bakalım, efsaneler!\NGösterin bana gücünüzü!
+Dialogue: 9,0:17:17.74,0:17:20.24,Default,,0,0,0,,Gel bakalım!
+Dialogue: 9,0:17:20.33,0:17:22.16,Default,,0,0,0,,Forte!
+Dialogue: 9,0:17:26.17,0:17:28.83,Default,,0,0,0,,{\i1}Nasıl öyle havada durabiliyor?
+Dialogue: 9,0:17:33.84,0:17:37.43,Default,,0,0,0,,{\i1}İnanılmaz! Öyle iri yarı bir{\i0}\N{\i1}adamı{\i0\i1} tek hamlede mi devirdi?
+Dialogue: 9,0:17:38.09,0:17:41.10,Default,,0,0,0,,"Şimşek Waka" ve "Herkül Benkei".
+Dialogue: 9,0:17:41.97,0:17:45.23,Default,,0,0,0,,Birinci Nesil Kara Ejderler'in gücü bu işte.
+Dialogue: 9,0:17:53.57,0:17:54.94,Default,,0,0,0,,İyi iş, Benkei.
+Dialogue: 9,0:17:55.57,0:17:58.11,Default,,0,0,0,,Planı sen kurdun.\NBen sadece son darbeyi vurdum.
+Dialogue: 9,0:17:59.03,0:18:00.74,Default,,0,0,0,,Böylesi iyi mi?
+Dialogue: 9,0:18:01.24,0:18:02.79,Default,,0,0,0,,Bu gidişle tüm şanı onlar kapacak
+Dialogue: 9,0:18:02.87,0:18:05.37,Default,,0,0,0,,ve dövüş senin adın hiç geçmeden bitecek.
+Dialogue: 9,0:18:05.45,0:18:07.87,Default,,0,0,0,,-Ben öyle demezdim.\N-Ha?
+Dialogue: 9,0:18:07.96,0:18:09.71,Default,,0,0,0,,{\i1}Harikaydı.
+Dialogue: 9,0:18:10.33,0:18:13.09,Default,,0,0,0,,{\i1}Ama yine de{\i0}\N{\i1}sanki fazla kolay gibi hissettiriyor.
+Dialogue: 9,0:18:14.59,0:18:17.68,Default,,0,0,0,,{\i1}Birinci Nesil Kara Ejderler'in{\i0}\N{\i1}meşhur ikilisi.
+Dialogue: 9,0:18:18.47,0:18:20.97,Default,,0,0,0,,{\i1}Kendilerini ne kadar{\i0}\N{\i1}güçlü sanıyorlar umurumda değil,
+Dialogue: 9,0:18:21.05,0:18:23.35,Default,,0,0,0,,{\i1}South Terano'yu yenemezler.
+Dialogue: 9,0:18:27.56,0:18:28.77,Default,,0,0,0,,Hmm?
+Dialogue: 9,0:18:32.27,0:18:34.11,Default,,0,0,0,,ROKUHARA TANDAI TEMSİLCİSİ
+Dialogue: 9,0:18:35.32,0:18:37.78,Default,,0,0,0,,{\i1}Şiddet, o adamın ana dilidir.
+Dialogue: 9,0:18:42.53,0:18:46.50,Default,,0,0,0,,Şimdiden bitti mi?\NOysa ben daha yeni ısınıyordum.
+Dialogue: 9,0:18:47.00,0:18:48.54,Default,,0,0,0,,Daha bitmedi.
+Dialogue: 9,0:18:50.33,0:18:54.50,Default,,0,0,0,,Vay canına, şaşırdım doğrusu.\NSen gerçekten canavarmışsın, değil mi?
+Dialogue: 9,0:18:58.67,0:19:04.18,Default,,0,0,0,,Henüz 12 yaşındayken,\Navuçlarım sevgiyle doluydu,
+Dialogue: 9,0:19:04.26,0:19:07.14,Default,,0,0,0,,baba diyebileceğim adamla yüzleştim...
+Dialogue: 9,0:19:08.43,0:19:10.02,Default,,0,0,0,,ve onu döverek öldürdüm.
+Dialogue: 9,0:19:10.69,0:19:12.06,Default,,0,0,0,,Kurşun yaraları mı?
+Dialogue: 9,0:19:12.65,0:19:17.74,Default,,0,0,0,,Ardından, 14 yaşındayken,\Nannem intikam amacıyla öldürüldü,
+Dialogue: 9,0:19:17.82,0:19:21.20,Default,,0,0,0,,ve yaralarım, ölümle burun burunayken\Nnefes nefese kalmama yol açtı.
+Dialogue: 9,0:19:27.20,0:19:28.50,Default,,0,0,0,,Yine de,
+Dialogue: 9,0:19:29.66,0:19:31.83,Default,,0,0,0,,"Dürtü" asla kaybolmaz.
+Dialogue: 9,0:19:36.30,0:19:37.80,Default,,0,0,0,,{\i1}"Karanlık Dürtü."
+Dialogue: 9,0:19:37.88,0:19:39.55,Default,,0,0,0,,{\i1}O, Mikey gibi.
+Dialogue: 9,0:19:59.24,0:20:01.07,Default,,0,0,0,,Demek şimdiden beş yaşına geldi, ha.
+Dialogue: 9,0:20:02.07,0:20:04.12,Default,,0,0,0,,O zaman vakti geldi demektir.
+Dialogue: 9,0:20:13.67,0:20:15.50,Default,,0,0,0,,Aferin sana, Minami.
+Dialogue: 0,0:20:16.09,0:20:18.92,Default,,0,0,0,,{\an8}Bundan böyle sana "South" diyecekler.
+Dialogue: 9,0:20:25.22,0:20:26.68,Default,,0,0,0,,South! Dur!
+Dialogue: 9,0:21:05.76,0:21:07.51,Default,,0,0,0,,Hayır, lütfen yapma!
+Dialogue: 9,0:21:21.65,0:21:23.94,Default,,0,0,0,,Yalvarırım! O benim oğlum!
+Dialogue: 9,0:21:24.99,0:21:26.86,Default,,0,0,0,,N'olur öldürme onu!
+Dialogue: 9,0:21:56.31,0:21:59.06,Default,,0,0,0,,Bu ritmi durdurabileceğini mi sanıyorsun?
+Dialogue: 9,0:21:59.98,0:22:01.57,Default,,0,0,0,,Tekrar düşün!
+Dialogue: 9,0:22:03.53,0:22:06.70,Default,,0,0,0,,Ritmi hissediyorum! Gümbür gümbür!
+Dialogue: 9,0:22:06.78,0:22:08.28,Default,,0,0,0,,Gümbür gümbür!
+Dialogue: 9,0:22:08.36,0:22:11.62,Default,,0,0,0,,Gümbür gümbür!
+Dialogue: 9,0:22:12.58,0:22:15.37,Default,,0,0,0,,Vivo!
+Dialogue: 0,0:22:31.01,0:22:34.01,Default,,0,0,0,,{\an8}Sadece benim kadar\Nşiddetin gözdesi olan bir adam
+Dialogue: 9,0:22:34.10,0:22:36.43,Default,,0,0,0,,bu ritmi anlayabilir.
+Dialogue: 0,0:22:39.27,0:22:42.15,Default,,0,0,0,,{\an8\i1}Ve bu tanıma uyabilecek,{\i0}\N{\i1}bunu başarabilecek tek kişi,
+Dialogue: 0,0:22:42.94,0:22:44.90,Default,,0,0,0,,{\an8\i1}bu "dürtüyü" anlayabilecek
+Dialogue: 9,0:22:46.11,0:22:48.53,Default,,0,0,0,,{\i1}tek adam Yenilmez Mikey.
+Dialogue: 9,0:22:48.61,0:22:51.45,Default,,0,0,0,,{\i1}Efsanelerimizi bir anda silip süpürdü.
+Dialogue: 9,0:22:51.53,0:22:52.87,Default,,0,0,0,,O tam bir şeytan.
+Dialogue: 0,0:22:55.87,0:22:57.41,Default,,0,0,0,,{\an8}Bu doğru olamaz.
+Dialogue: 0,0:22:58.00,0:23:00.17,Default,,0,0,0,,{\an8}Her şeyin bu şekilde\Nbitmesine imkân yok.
+Dialogue: 0,0:23:01.38,0:23:03.88,Default,,0,0,0,,{\an8}Brahman öyle böyle\Nbitirebileceğiniz bir çete değil!
+Dialogue: 0,0:23:11.97,0:23:13.35,Default,,0,0,0,,{\an8}Üzgünüm, Waka.
+Dialogue: 0,0:23:14.39,0:23:16.27,Default,,0,0,0,,{\an8}Artık kenarda durup izleyemem.
+Dialogue: 0,0:23:16.35,0:23:17.64,Default,,0,0,0,,{\an8}N'apıyor o?
+Dialogue: 9,0:23:24.48,0:23:25.69,Default,,0,0,0,,Dinle, South.
+Dialogue: 9,0:23:26.82,0:23:28.90,Default,,0,0,0,,Suratını asfalta sürtüp dağıtacağım.
+Dialogue: 0,0:23:38.33,0:23:39.91,Default,,0,0,0,,{\an7\fscx75\fscy75\pos(30,52)}*: Müzik terimi, "canlı ve tempolu".
+Dialogue: 9,0:23:38.33,0:23:39.91,Default,,0,0,0,,{\i1}Vivace.*
+Dialogue: 0,0:23:40.96,0:23:41.96,Default,,0,0,0,,{\an8}MASAL REVENGERS - MİNİ #9\N"PRENSESLER BULUŞUYOR"
+Dialogue: 9,0:23:42.04,0:23:45.63,Default,,0,0,0,,Çay partisine davetliyiz.\NUmarım hepimiz iyi anlaşırız.
+Dialogue: 9,0:23:45.71,0:23:47.05,Default,,0,0,0,,Pardon...
+Dialogue: 9,0:23:47.13,0:23:49.80,Default,,0,0,0,,Ne bakıyorsun lan öyle?\NCanına mı susadın?
+Dialogue: 9,0:23:49.88,0:23:52.05,Default,,0,0,0,,Pudingi uzatır mısın diyecektim sadece.
+Dialogue: 9,0:23:52.13,0:23:54.55,Default,,0,0,0,,Prenses Otohime geldi.\NN'aber millet?
+Dialogue: 0,0:23:54.64,0:23:56.89,Default,,0,0,0,,{\an8}Hiç de beklediğim gibi değil.
